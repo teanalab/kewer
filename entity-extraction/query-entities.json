@@ -1,0 +1,6422 @@
+{
+    "INEX_LD-2009022": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sichuan_cuisine",
+                0.9976702695908773
+            ],
+            [
+                "http://dbpedia.org/resource/Cuisine",
+                0.907717258553596
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cuisine": [
+                "cuisine"
+            ],
+            "http://dbpedia.org/resource/Sichuan_cuisine": [
+                "szechwan"
+            ]
+        }
+    },
+    "INEX_LD-2009039": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ancient_Roman_architecture",
+                0.9999999992467714
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Ancient_Roman_architecture": [
+                "roman",
+                "architecture"
+            ]
+        }
+    },
+    "INEX_LD-2009053": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Finland",
+                0.9999779333239739
+            ],
+            [
+                "http://dbpedia.org/resource/Saab_Automobile",
+                0.9936788144550377
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Finland": [
+                "finland"
+            ],
+            "http://dbpedia.org/resource/Saab_Automobile": [
+                "saab"
+            ]
+        }
+    },
+    "INEX_LD-2009061": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Normandy",
+                0.9947240637483524
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Normandy": [
+                "normandy"
+            ]
+        }
+    },
+    "INEX_LD-2009062": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Group_selection",
+                0.9999999939426587
+            ],
+            [
+                "http://dbpedia.org/resource/Social_network",
+                0.9490741040539319
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Group_selection": [
+                "group",
+                "selection"
+            ],
+            "http://dbpedia.org/resource/Social_network": [
+                "social",
+                "network"
+            ]
+        }
+    },
+    "INEX_LD-2009063": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Normandy",
+                0.9541924470944914
+            ],
+            [
+                "http://dbpedia.org/resource/Normandy_landings",
+                0.9963585911179628
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Normandy": [
+                "normandy"
+            ],
+            "http://dbpedia.org/resource/Normandy_landings": [
+                "d",
+                "day"
+            ]
+        }
+    },
+    "INEX_LD-2009074": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Scoring_algorithm",
+                0.9999999843365545
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Scoring_algorithm": [
+                "scoring",
+                "algorithm"
+            ]
+        }
+    },
+    "INEX_LD-2009096": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2009111": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Solar_power",
+                0.9963404461233393
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Solar_power": [
+                "solar",
+                "power"
+            ]
+        }
+    },
+    "INEX_LD-2009115": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Virtual_museum",
+                0.9999999999404174
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Virtual_museum": [
+                "virtual",
+                "museums"
+            ]
+        }
+    },
+    "INEX_LD-2010004": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2010014": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Museum",
+                0.9992726101140006
+            ],
+            [
+                "http://dbpedia.org/resource/Composer",
+                0.9993262258797061
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Composer": [
+                "composer"
+            ],
+            "http://dbpedia.org/resource/Museum": [
+                "museum"
+            ]
+        }
+    },
+    "INEX_LD-2010019": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ancient_Roman_architecture",
+                0.9999999995045954
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Ancient_Roman_architecture": [
+                "roman",
+                "architecture"
+            ]
+        }
+    },
+    "INEX_LD-2010020": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/France",
+                0.9981598705781878
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/France": [
+                "france"
+            ]
+        }
+    },
+    "INEX_LD-2010037": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Social_network",
+                0.9599293253959182
+            ],
+            [
+                "http://dbpedia.org/resource/Application_programming_interface",
+                0.9998103159769737
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Application_programming_interface": [
+                "api"
+            ],
+            "http://dbpedia.org/resource/Social_network": [
+                "social",
+                "network"
+            ]
+        }
+    },
+    "INEX_LD-2010043": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Surrealism",
+                0.9990280380699259
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Surrealism": [
+                "surrealist"
+            ]
+        }
+    },
+    "INEX_LD-2010057": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Theory_of_relativity",
+                0.9999999999983764
+            ],
+            [
+                "http://dbpedia.org/resource/Albert_Einstein",
+                0.999779238418882
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Albert_Einstein": [
+                "einstein"
+            ],
+            "http://dbpedia.org/resource/Theory_of_relativity": [
+                "relativity",
+                "theory"
+            ]
+        }
+    },
+    "INEX_LD-2010069": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2010100": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Wood",
+                0.9989894187850981
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Wood": [
+                "wood"
+            ]
+        }
+    },
+    "INEX_LD-2010106": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Organic_food",
+                0.9999999997967066
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Organic_food": [
+                "organic",
+                "food"
+            ]
+        }
+    },
+    "INEX_LD-20120111": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vietnam_War",
+                0.9996191099908412
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Vietnam_War": [
+                "vietnam",
+                "war"
+            ]
+        }
+    },
+    "INEX_LD-20120112": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vietnam_War",
+                0.9995985045802073
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Vietnam_War": [
+                "vietnam",
+                "war"
+            ]
+        }
+    },
+    "INEX_LD-20120121": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-20120122": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Blog",
+                0.9999977940852419
+            ],
+            [
+                "http://dbpedia.org/resource/Vietnamese_language",
+                0.782234761923405
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Blog": [
+                "blog"
+            ],
+            "http://dbpedia.org/resource/Vietnamese_language": [
+                "vietnamese"
+            ]
+        }
+    },
+    "INEX_LD-20120131": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-20120132": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-20120211": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Guitar",
+                0.9913265141162334
+            ],
+            [
+                "http://dbpedia.org/resource/Guitar_chord",
+                0.934239560084592
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Guitar": [
+                "guitar"
+            ],
+            "http://dbpedia.org/resource/Guitar_chord": [
+                "chord"
+            ]
+        }
+    },
+    "INEX_LD-20120212": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Guitar",
+                0.973125920683982
+            ],
+            [
+                "http://dbpedia.org/resource/Major_chord",
+                0.5909979097099362
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Guitar": [
+                "guitar"
+            ],
+            "http://dbpedia.org/resource/Major_chord": [
+                "chord"
+            ]
+        }
+    },
+    "INEX_LD-20120221": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Guitar",
+                0.9839792178080151
+            ],
+            [
+                "http://dbpedia.org/resource/Flamenco",
+                0.9974021500385734
+            ],
+            [
+                "http://dbpedia.org/resource/Classical_music",
+                0.6176791650634528
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Classical_music": [
+                "classical"
+            ],
+            "http://dbpedia.org/resource/Flamenco": [
+                "flamenco"
+            ],
+            "http://dbpedia.org/resource/Guitar": [
+                "guitar"
+            ]
+        }
+    },
+    "INEX_LD-20120222": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Guitar",
+                0.9794565518697338
+            ],
+            [
+                "http://dbpedia.org/resource/Classical_music",
+                0.9220507222933196
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Classical_music": [
+                "classical"
+            ],
+            "http://dbpedia.org/resource/Guitar": [
+                "guitar"
+            ]
+        }
+    },
+    "INEX_LD-20120231": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Guitar",
+                0.975584336184798
+            ],
+            [
+                "http://dbpedia.org/resource/Russia",
+                0.9962499926186881
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Guitar": [
+                "guitar"
+            ],
+            "http://dbpedia.org/resource/Russia": [
+                "russia"
+            ]
+        }
+    },
+    "INEX_LD-20120232": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Guitar",
+                0.9682612924592695
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Guitar": [
+                "guitar"
+            ]
+        }
+    },
+    "INEX_LD-20120311": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-20120312": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-20120321": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tango_music",
+                0.7594254829465307
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tango_music": [
+                "tango"
+            ]
+        }
+    },
+    "INEX_LD-20120322": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tango_music",
+                0.7708186931919061
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tango_music": [
+                "tango"
+            ]
+        }
+    },
+    "INEX_LD-20120331": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Dance",
+                0.9566218361077053
+            ],
+            [
+                "http://dbpedia.org/resource/Tango",
+                0.6603904638533691
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Dance": [
+                "dance"
+            ],
+            "http://dbpedia.org/resource/Tango": [
+                "tango"
+            ]
+        }
+    },
+    "INEX_LD-20120332": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Dance",
+                0.9606984617199399
+            ],
+            [
+                "http://dbpedia.org/resource/Tango",
+                0.7056473503773868
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Dance": [
+                "dance"
+            ],
+            "http://dbpedia.org/resource/Tango": [
+                "tango"
+            ]
+        }
+    },
+    "INEX_LD-20120411": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bicycle",
+                0.9898083108672389
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bicycle": [
+                "bicycle"
+            ]
+        }
+    },
+    "INEX_LD-20120412": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bicycle",
+                0.9971621111963717
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bicycle": [
+                "bicycle"
+            ]
+        }
+    },
+    "INEX_LD-20120421": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bicycle",
+                0.9993412211821445
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bicycle": [
+                "bicycle"
+            ]
+        }
+    },
+    "INEX_LD-20120422": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bicycle",
+                0.9993190011872375
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bicycle": [
+                "bicycle"
+            ]
+        }
+    },
+    "INEX_LD-20120431": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bicycle",
+                0.9993703535351196
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bicycle": [
+                "bicycle"
+            ]
+        }
+    },
+    "INEX_LD-20120432": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bicycle",
+                0.9994364907683162
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bicycle": [
+                "bicycle"
+            ]
+        }
+    },
+    "INEX_LD-20120511": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rock_music",
+                0.9903970195373316
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Rock_music": [
+                "rock"
+            ]
+        }
+    },
+    "INEX_LD-20120512": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-20120521": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Electronic_music",
+                0.9988067571504317
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Electronic_music": [
+                "electronic",
+                "music"
+            ]
+        }
+    },
+    "INEX_LD-20120522": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Musical_notation",
+                0.9990755002489451
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Musical_notation": [
+                "music",
+                "notation"
+            ]
+        }
+    },
+    "INEX_LD-20120531": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-20120532": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Intellectual_property",
+                0.999906555004556
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Intellectual_property": [
+                "intellectual",
+                "property"
+            ]
+        }
+    },
+    "INEX_LD-2012301": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Niagara_River",
+                0.6895701693603562
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Niagara_River": [
+                "niagara"
+            ]
+        }
+    },
+    "INEX_LD-2012303": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/San_Joaquin_Valley",
+                0.7658813627082112
+            ],
+            [
+                "http://dbpedia.org/resource/Fever",
+                0.9999740194002564
+            ],
+            [
+                "http://dbpedia.org/resource/Mycosis",
+                0.99776008653858
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Fever": [
+                "fever"
+            ],
+            "http://dbpedia.org/resource/Mycosis": [
+                "fungal",
+                "infection"
+            ],
+            "http://dbpedia.org/resource/San_Joaquin_Valley": [
+                "san",
+                "joaquin"
+            ]
+        }
+    },
+    "INEX_LD-2012305": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/North_Dakota",
+                0.9970415850637392
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/North_Dakota": [
+                "north",
+                "dakota"
+            ]
+        }
+    },
+    "INEX_LD-2012307": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Millard_Fillmore",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Millard_Fillmore": [
+                "millard",
+                "fillmore"
+            ]
+        }
+    },
+    "INEX_LD-2012309": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Malay_Peninsula",
+                0.9999058688047469
+            ],
+            [
+                "http://dbpedia.org/resource/Small_Island_(TV_film)",
+                0.6192367300477829
+            ],
+            [
+                "http://dbpedia.org/resource/City-state",
+                0.9982793414295329
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/City-state": [
+                "city",
+                "state"
+            ],
+            "http://dbpedia.org/resource/Malay_Peninsula": [
+                "malay",
+                "peninsula"
+            ],
+            "http://dbpedia.org/resource/Small_Island_(TV_film)": [
+                "small",
+                "island"
+            ]
+        }
+    },
+    "INEX_LD-2012311": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Starting_Over_(TV_series)",
+                0.6217596902690267
+            ],
+            [
+                "http://dbpedia.org/resource/Yoko_Ono",
+                0.9999999999999929
+            ],
+            [
+                "http://dbpedia.org/resource/John_Lennon",
+                0.9999554459058675
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_Lennon": [
+                "john",
+                "lennon"
+            ],
+            "http://dbpedia.org/resource/Starting_Over_(TV_series)": [
+                "starting",
+                "over"
+            ],
+            "http://dbpedia.org/resource/Yoko_Ono": [
+                "yoko",
+                "ono"
+            ]
+        }
+    },
+    "INEX_LD-2012313": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Turturro",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_Turturro": [
+                "john",
+                "turturro"
+            ]
+        }
+    },
+    "INEX_LD-2012315": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Baguio",
+                0.9999992287772973
+            ],
+            [
+                "http://dbpedia.org/resource/Quezon_City",
+                0.9999970097361641
+            ],
+            [
+                "http://dbpedia.org/resource/Manila",
+                0.9921442096935745
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Baguio": [
+                "baguio"
+            ],
+            "http://dbpedia.org/resource/Manila": [
+                "manila"
+            ],
+            "http://dbpedia.org/resource/Quezon_City": [
+                "quezon",
+                "city"
+            ]
+        }
+    },
+    "INEX_LD-2012317": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Dagger",
+                0.9999999986695229
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Dagger": [
+                "dagger"
+            ]
+        }
+    },
+    "INEX_LD-2012318": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bela_Tehsil",
+                0.6723425072033042
+            ],
+            [
+                "http://dbpedia.org/resource/Plan_9_from_Bell_Labs",
+                0.999998224916778
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bela_Tehsil": [
+                "bela"
+            ],
+            "http://dbpedia.org/resource/Plan_9_from_Bell_Labs": [
+                "plan",
+                "9"
+            ]
+        }
+    },
+    "INEX_LD-2012319": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Alice_Munro",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Alice_Munro": [
+                "alice",
+                "munro"
+            ]
+        }
+    },
+    "INEX_LD-2012321": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+                0.9945239134585497
+            ],
+            [
+                "http://dbpedia.org/resource/Stamford_Raffles",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census": [
+                "asian"
+            ],
+            "http://dbpedia.org/resource/Stamford_Raffles": [
+                "stamford",
+                "raffles"
+            ]
+        }
+    },
+    "INEX_LD-2012323": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vatnaj\u00f6kull",
+                0.9952826242287877
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Vatnaj\u00f6kull": [
+                "vatnajokull"
+            ]
+        }
+    },
+    "INEX_LD-2012325": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/LeBron_James",
+                0.5786920944458057
+            ],
+            [
+                "http://dbpedia.org/resource/James_G._Blaine",
+                0.927900664161723
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/James_G._Blaine": [
+                "blaine"
+            ],
+            "http://dbpedia.org/resource/LeBron_James": [
+                "james"
+            ]
+        }
+    },
+    "INEX_LD-2012327": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Most_Beloved",
+                0.5387014309283465
+            ],
+            [
+                "http://dbpedia.org/resource/African_Americans",
+                0.8808942195950974
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/African_Americans": [
+                "african",
+                "american"
+            ],
+            "http://dbpedia.org/resource/Most_Beloved": [
+                "beloved"
+            ]
+        }
+    },
+    "INEX_LD-2012329": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Iceland",
+                0.9992066990619627
+            ],
+            [
+                "http://dbpedia.org/resource/Currency",
+                0.9983550604124551
+            ],
+            [
+                "http://dbpedia.org/resource/Sweden",
+                0.9977164415675134
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Currency": [
+                "currency"
+            ],
+            "http://dbpedia.org/resource/Iceland": [
+                "iceland"
+            ],
+            "http://dbpedia.org/resource/Sweden": [
+                "sweden"
+            ]
+        }
+    },
+    "INEX_LD-2012331": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ethnic_group",
+                0.9678490730520888
+            ],
+            [
+                "http://dbpedia.org/resource/China",
+                0.9993957691062748
+            ],
+            [
+                "http://dbpedia.org/resource/Seoul",
+                0.9999125602469718
+            ],
+            [
+                "http://dbpedia.org/resource/Korea",
+                0.9455802095160283
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/China": [
+                "china"
+            ],
+            "http://dbpedia.org/resource/Ethnic_group": [
+                "ethnic",
+                "group"
+            ],
+            "http://dbpedia.org/resource/Korea": [
+                "korea"
+            ],
+            "http://dbpedia.org/resource/Seoul": [
+                "seoul"
+            ]
+        }
+    },
+    "INEX_LD-2012333": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.999868620757116
+            ],
+            [
+                "http://dbpedia.org/resource/Prime_Minister_of_Canada",
+                0.9891863260602166
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Canada": [
+                "canada"
+            ],
+            "http://dbpedia.org/resource/Prime_Minister_of_Canada": [
+                "prime",
+                "minister"
+            ]
+        }
+    },
+    "INEX_LD-2012335": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Japan",
+                0.9986105157812785
+            ],
+            [
+                "http://dbpedia.org/resource/Nuclear_weapon",
+                0.9966184103234359
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Japan": [
+                "japan"
+            ],
+            "http://dbpedia.org/resource/Nuclear_weapon": [
+                "nuclear",
+                "weapons"
+            ]
+        }
+    },
+    "INEX_LD-2012336": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Papua_Island",
+                0.9999999996981757
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Papua_Island": [
+                "papua",
+                "island"
+            ]
+        }
+    },
+    "INEX_LD-2012337": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tornado",
+                0.997516938204164
+            ],
+            [
+                "http://dbpedia.org/resource/Baylor_University",
+                0.9986943795528033
+            ],
+            [
+                "http://dbpedia.org/resource/Texas",
+                0.9962743004943012
+            ],
+            [
+                "http://dbpedia.org/resource/City",
+                0.9088077195499189
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Baylor_University": [
+                "baylor",
+                "university"
+            ],
+            "http://dbpedia.org/resource/City": [
+                "city"
+            ],
+            "http://dbpedia.org/resource/Texas": [
+                "texas"
+            ],
+            "http://dbpedia.org/resource/Tornado": [
+                "tornado"
+            ]
+        }
+    },
+    "INEX_LD-2012339": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Langalibalele_Dube",
+                0.9999999999997939
+            ],
+            [
+                "http://dbpedia.org/resource/Nelson_Mandela",
+                0.9999991872357333
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_Langalibalele_Dube": [
+                "john",
+                "dube"
+            ],
+            "http://dbpedia.org/resource/Nelson_Mandela": [
+                "nelson",
+                "mandela"
+            ]
+        }
+    },
+    "INEX_LD-2012341": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Houston",
+                0.9988117779972665
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Houston": [
+                "houston"
+            ]
+        }
+    },
+    "INEX_LD-2012343": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Poet",
+                0.9858628831974549
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Poet": [
+                "poet"
+            ]
+        }
+    },
+    "INEX_LD-2012345": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Texas",
+                0.9989120848122397
+            ],
+            [
+                "http://dbpedia.org/resource/Assassination_of_John_F._Kennedy",
+                0.9991911797907241
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Assassination_of_John_F._Kennedy": [
+                "kennedy",
+                "assassination"
+            ],
+            "http://dbpedia.org/resource/Texas": [
+                "texas"
+            ]
+        }
+    },
+    "INEX_LD-2012347": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Florida",
+                0.9997170580496785
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Florida": [
+                "florida"
+            ]
+        }
+    },
+    "INEX_LD-2012349": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Alexander_Nevsky",
+                0.9999888682302889
+            ],
+            [
+                "http://dbpedia.org/resource/City",
+                0.8164410364472461
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Alexander_Nevsky": [
+                "alexander",
+                "nevsky"
+            ],
+            "http://dbpedia.org/resource/City": [
+                "city"
+            ]
+        }
+    },
+    "INEX_LD-2012351": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rice",
+                0.9987333554536173
+            ],
+            [
+                "http://dbpedia.org/resource/Indian_cuisine",
+                1.0
+            ],
+            [
+                "http://dbpedia.org/resource/Roti",
+                0.9999911261345265
+            ],
+            [
+                "http://dbpedia.org/resource/Papadum",
+                1.0
+            ],
+            [
+                "http://dbpedia.org/resource/Dal",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Dal": [
+                "dhal"
+            ],
+            "http://dbpedia.org/resource/Indian_cuisine": [
+                "indian",
+                "cuisine"
+            ],
+            "http://dbpedia.org/resource/Papadum": [
+                "papad"
+            ],
+            "http://dbpedia.org/resource/Rice": [
+                "rice"
+            ],
+            "http://dbpedia.org/resource/Roti": [
+                "roti"
+            ]
+        }
+    },
+    "INEX_LD-2012353": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/German_language",
+                0.9999603601306872
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/German_language": [
+                "german",
+                "language"
+            ]
+        }
+    },
+    "INEX_LD-2012354": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012355": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Association_football",
+                0.9608925726872743
+            ],
+            [
+                "http://dbpedia.org/resource/England",
+                0.7768991011503709
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Association_football": [
+                "football"
+            ],
+            "http://dbpedia.org/resource/England": [
+                "england"
+            ]
+        }
+    },
+    "INEX_LD-2012357": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ballet_dancer",
+                1.0
+            ],
+            [
+                "http://dbpedia.org/resource/Bolshoi_Theatre",
+                0.9999999999945217
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Ballet_dancer": [
+                "prima",
+                "ballerina"
+            ],
+            "http://dbpedia.org/resource/Bolshoi_Theatre": [
+                "bolshoi",
+                "theatre"
+            ]
+        }
+    },
+    "INEX_LD-2012359": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bob_Ricker",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bob_Ricker": [
+                "bob",
+                "ricker"
+            ]
+        }
+    },
+    "INEX_LD-2012361": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012363": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.9720361183865914
+            ],
+            [
+                "http://dbpedia.org/resource/Tennis",
+                0.9999937098075852
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tennis": [
+                "tennis"
+            ],
+            "http://dbpedia.org/resource/United_States": [
+                "american"
+            ]
+        }
+    },
+    "INEX_LD-2012365": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Computer_scientist",
+                0.9956298170960534
+            ],
+            [
+                "http://dbpedia.org/resource/Mathematician",
+                0.9916183169040246
+            ],
+            [
+                "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology",
+                0.9999997559812654
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Computer_scientist": [
+                "computer",
+                "scientist"
+            ],
+            "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology": [
+                "mit"
+            ],
+            "http://dbpedia.org/resource/Mathematician": [
+                "mathematician"
+            ]
+        }
+    },
+    "INEX_LD-2012367": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Telescope",
+                0.996682951478675
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Telescope": [
+                "telescope"
+            ]
+        }
+    },
+    "INEX_LD-2012369": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012371": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012372": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012373": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012375": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012377": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_War_I",
+                0.9999987322943376
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/World_War_I": [
+                "world",
+                "war",
+                "i"
+            ]
+        }
+    },
+    "INEX_LD-2012381": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012383": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Computer",
+                0.9889608312999688
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Computer": [
+                "computer"
+            ]
+        }
+    },
+    "INEX_LD-2012385": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_LD-2012387": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Dam",
+                0.9999928521284737
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Dam": [
+                "dam"
+            ]
+        }
+    },
+    "INEX_LD-2012389": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Indian_Ocean",
+                0.9999970116722807
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Indian_Ocean": [
+                "indian",
+                "ocean"
+            ]
+        }
+    },
+    "INEX_LD-2012390": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-100": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Steve_Jobs",
+                0.999998683866898
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Steve_Jobs": [
+                "steve",
+                "jobs"
+            ]
+        }
+    },
+    "INEX_XER-106": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hundred_Years'_War",
+                0.9999999093311983
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Hundred_Years'_War": [
+                "hundred",
+                "years",
+                "war"
+            ]
+        }
+    },
+    "INEX_XER-108": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.9998968263363045
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/United_States": [
+                "united",
+                "states"
+            ]
+        }
+    },
+    "INEX_XER-109": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-110": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-113": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Grand_Prix_motor_racing",
+                0.9643273904348444
+            ],
+            [
+                "http://dbpedia.org/resource/Formula_One",
+                0.9999736157001049
+            ],
+            [
+                "http://dbpedia.org/resource/Circuit_de_Monaco",
+                0.6784314300652984
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Circuit_de_Monaco": [
+                "monaco"
+            ],
+            "http://dbpedia.org/resource/Formula_One": [
+                "formula",
+                "1"
+            ],
+            "http://dbpedia.org/resource/Grand_Prix_motor_racing": [
+                "grand",
+                "prix"
+            ]
+        }
+    },
+    "INEX_XER-114": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Europe",
+                0.9997910149461103
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Europe": [
+                "europe"
+            ]
+        }
+    },
+    "INEX_XER-115": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Formula_One",
+                0.9995388309003335
+            ],
+            [
+                "http://dbpedia.org/resource/List_of_Formula_One_World_Constructors'_Champions",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Formula_One": [
+                "formula",
+                "one"
+            ],
+            "http://dbpedia.org/resource/List_of_Formula_One_World_Constructors'_Champions": [
+                "world",
+                "constructors",
+                "champions"
+            ]
+        }
+    },
+    "INEX_XER-116": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Italy",
+                0.8260235115757192
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Italy": [
+                "italian"
+            ]
+        }
+    },
+    "INEX_XER-117": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-118": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/France",
+                0.6632716560115268
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/France": [
+                "french"
+            ]
+        }
+    },
+    "INEX_XER-119": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Switzerland",
+                0.9943628877994863
+            ],
+            [
+                "http://dbpedia.org/resource/Cantons_of_Switzerland",
+                0.9914579646742591
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cantons_of_Switzerland": [
+                "cantons"
+            ],
+            "http://dbpedia.org/resource/Switzerland": [
+                "swiss"
+            ]
+        }
+    },
+    "INEX_XER-121": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-122": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Academy_Awards",
+                0.9980143778017367
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Academy_Awards": [
+                "academy",
+                "awards"
+            ]
+        }
+    },
+    "INEX_XER-123": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/FIFA",
+                0.9995448283962786
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/FIFA": [
+                "fifa"
+            ]
+        }
+    },
+    "INEX_XER-124": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Man_Booker_Prize",
+                0.9991349279248072
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Man_Booker_Prize": [
+                "booker"
+            ]
+        }
+    },
+    "INEX_XER-125": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/FIFA",
+                0.9996268582822686
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/FIFA": [
+                "fifa"
+            ]
+        }
+    },
+    "INEX_XER-126": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Toy_train",
+                0.9999999999988773
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Toy_train": [
+                "toy",
+                "train"
+            ]
+        }
+    },
+    "INEX_XER-127": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-128": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-129": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Science_fiction",
+                0.999115116623416
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Science_fiction": [
+                "science",
+                "fiction"
+            ]
+        }
+    },
+    "INEX_XER-130": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Star_Trek",
+                0.9999951509224596
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Star_Trek": [
+                "star",
+                "trek"
+            ]
+        }
+    },
+    "INEX_XER-132": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Classical_music",
+                0.9784106264120929
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Classical_music": [
+                "classical"
+            ]
+        }
+    },
+    "INEX_XER-133": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/European_Union",
+                0.9883540945892371
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/European_Union": [
+                "eu"
+            ]
+        }
+    },
+    "INEX_XER-134": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-135": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Japan",
+                0.9971530226525709
+            ],
+            [
+                "http://dbpedia.org/resource/Professional_baseball",
+                0.989176823648849
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Japan": [
+                "japan"
+            ],
+            "http://dbpedia.org/resource/Professional_baseball": [
+                "professional",
+                "baseball"
+            ]
+        }
+    },
+    "INEX_XER-136": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Japanese_people",
+                0.5983520947139154
+            ],
+            [
+                "http://dbpedia.org/resource/Major_League_Baseball",
+                0.9999983006052646
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Japanese_people": [
+                "japanese"
+            ],
+            "http://dbpedia.org/resource/Major_League_Baseball": [
+                "major",
+                "league",
+                "baseball"
+            ]
+        }
+    },
+    "INEX_XER-138": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.9997815649648896
+            ],
+            [
+                "http://dbpedia.org/resource/East_Coast_of_the_United_States",
+                0.9710795221198599
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Canada": [
+                "canada"
+            ],
+            "http://dbpedia.org/resource/East_Coast_of_the_United_States": [
+                "east",
+                "coast"
+            ]
+        }
+    },
+    "INEX_XER-139": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Akira_Kurosawa",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Akira_Kurosawa": [
+                "akira",
+                "kurosawa"
+            ]
+        }
+    },
+    "INEX_XER-140": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.9940703105049709
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Germany": [
+                "germany"
+            ]
+        }
+    },
+    "INEX_XER-141": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-143": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hanseatic_League",
+                0.9999999999999858
+            ],
+            [
+                "http://dbpedia.org/resource/Netherlands",
+                0.9982890118993889
+            ],
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.9979475250591621
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Germany": [
+                "germany"
+            ],
+            "http://dbpedia.org/resource/Hanseatic_League": [
+                "hanseatic",
+                "league"
+            ],
+            "http://dbpedia.org/resource/Netherlands": [
+                "netherlands"
+            ]
+        }
+    },
+    "INEX_XER-144": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Chess",
+                0.9999479690237681
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Chess": [
+                "chess"
+            ]
+        }
+    },
+    "INEX_XER-147": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-60": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Dinghy_sailing",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Dinghy_sailing": [
+                "dinghy",
+                "sailing"
+            ]
+        }
+    },
+    "INEX_XER-62": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Neil_Gaiman",
+                0.9999999999999964
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Neil_Gaiman": [
+                "neil",
+                "gaiman"
+            ]
+        }
+    },
+    "INEX_XER-63": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-64": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Alan_Moore",
+                0.9999999999594564
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Alan_Moore": [
+                "alan",
+                "moore"
+            ]
+        }
+    },
+    "INEX_XER-65": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Australia",
+                0.9976596092581203
+            ],
+            [
+                "http://dbpedia.org/resource/Pacific_Ocean",
+                0.9952773390852971
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Australia": [
+                "australia"
+            ],
+            "http://dbpedia.org/resource/Pacific_Ocean": [
+                "pacific"
+            ]
+        }
+    },
+    "INEX_XER-67": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-72": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Venice",
+                0.9772869701579906
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Venice": [
+                "venice"
+            ]
+        }
+    },
+    "INEX_XER-73": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-74": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Circus",
+                0.999898573987482
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Circus": [
+                "circus"
+            ]
+        }
+    },
+    "INEX_XER-79": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Charles_II_of_England",
+                0.6202648351521286
+            ],
+            [
+                "http://dbpedia.org/resource/Charles_Rennie_Mackintosh",
+                0.9944586709840206
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Charles_II_of_England": [
+                "charles"
+            ],
+            "http://dbpedia.org/resource/Charles_Rennie_Mackintosh": [
+                "mackintosh"
+            ]
+        }
+    },
+    "INEX_XER-81": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/English_language",
+                0.8131656385084672
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/English_language": [
+                "english"
+            ]
+        }
+    },
+    "INEX_XER-86": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_War_II",
+                0.9999985325285616
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/World_War_II": [
+                "world",
+                "war",
+                "two"
+            ]
+        }
+    },
+    "INEX_XER-87": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_War_II",
+                0.9999823008617876
+            ],
+            [
+                "http://dbpedia.org/resource/Axis_powers",
+                0.9999999999953388
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Axis_powers": [
+                "axis",
+                "powers"
+            ],
+            "http://dbpedia.org/resource/World_War_II": [
+                "world",
+                "war",
+                "ii"
+            ]
+        }
+    },
+    "INEX_XER-88": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nordic_countries",
+                0.9585577045557382
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nordic_countries": [
+                "nordic"
+            ]
+        }
+    },
+    "INEX_XER-91": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Paul_Auster",
+                0.9999999999968345
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Paul_Auster": [
+                "paul",
+                "auster"
+            ]
+        }
+    },
+    "INEX_XER-94": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Europe",
+                0.9998503575766712
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Europe": [
+                "europe"
+            ]
+        }
+    },
+    "INEX_XER-95": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tom_Hanks",
+                0.9999999999998295
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tom_Hanks": [
+                "tom",
+                "hanks"
+            ]
+        }
+    },
+    "INEX_XER-96": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Object-oriented_programming",
+                0.9998392756119852
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Object-oriented_programming": [
+                "object",
+                "oriented"
+            ]
+        }
+    },
+    "INEX_XER-97": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "INEX_XER-98": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tennis",
+                0.9999972232360831
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tennis": [
+                "tennis"
+            ]
+        }
+    },
+    "INEX_XER-99": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Recursive_acronym",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Recursive_acronym": [
+                "recursive",
+                "acronym"
+            ]
+        }
+    },
+    "QALD2_te-1": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_te-100": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Orangina",
+                0.9999999628167948
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Orangina": [
+                "orangina"
+            ]
+        }
+    },
+    "QALD2_te-11": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Formula_One",
+                0.9999240169017134
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Formula_One": [
+                "formula",
+                "1"
+            ]
+        }
+    },
+    "QALD2_te-12": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cultural_heritage",
+                0.9572494387813785
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cultural_heritage": [
+                "heritage"
+            ]
+        }
+    },
+    "QALD2_te-13": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Premier_League",
+                0.9982633985620105
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Premier_League": [
+                "premier",
+                "league"
+            ]
+        }
+    },
+    "QALD2_te-14": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_te-15": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_te-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.9947290032490438
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Germany": [
+                "germany"
+            ]
+        }
+    },
+    "QALD2_te-19": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vienna",
+                0.9990349659855405
+            ],
+            [
+                "http://dbpedia.org/resource/Berlin",
+                0.9979081735771932
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Berlin": [
+                "berlin"
+            ],
+            "http://dbpedia.org/resource/Vienna": [
+                "vienna"
+            ]
+        }
+    },
+    "QALD2_te-2": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_F._Kennedy",
+                0.9930030124993425
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_F._Kennedy": [
+                "kennedy"
+            ]
+        }
+    },
+    "QALD2_te-21": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.9997069580552482
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Canada": [
+                "canada"
+            ]
+        }
+    },
+    "QALD2_te-22": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Texas",
+                0.9988441376320435
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Texas": [
+                "texas"
+            ]
+        }
+    },
+    "QALD2_te-24": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Elizabeth_II",
+                0.999960636492945
+            ],
+            [
+                "http://dbpedia.org/resource/Elizabeth_II",
+                0.9999566255440414
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Elizabeth_II": [
+                "elizabeth",
+                "ii"
+            ]
+        }
+    },
+    "QALD2_te-25": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_te-27": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sean_Parnell",
+                0.9999999999999716
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Sean_Parnell": [
+                "sean",
+                "parnell"
+            ]
+        }
+    },
+    "QALD2_te-28": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Francis_Ford_Coppola",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Francis_Ford_Coppola": [
+                "francis",
+                "ford",
+                "coppola"
+            ]
+        }
+    },
+    "QALD2_te-29": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/William_Shatner",
+                0.999999999999929
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/William_Shatner": [
+                "william",
+                "shatner"
+            ]
+        }
+    },
+    "QALD2_te-3": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Berlin",
+                0.9987660367337278
+            ],
+            [
+                "http://dbpedia.org/resource/Mayor",
+                0.9981732792531085
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Berlin": [
+                "berlin"
+            ],
+            "http://dbpedia.org/resource/Mayor": [
+                "mayor"
+            ]
+        }
+    },
+    "QALD2_te-31": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Methodism",
+                0.9930931283707372
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Methodism": [
+                "methodist"
+            ]
+        }
+    },
+    "QALD2_te-33": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_te-34": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Reginald_Frederick_Lawrence",
+                0.8271523680045688
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Reginald_Frederick_Lawrence": [
+                "lawrence"
+            ]
+        }
+    },
+    "QALD2_te-35": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Skype",
+                0.983079188105549
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Skype": [
+                "skype"
+            ]
+        }
+    },
+    "QALD2_te-39": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Munich",
+                0.9985107621672683
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Munich": [
+                "munich"
+            ]
+        }
+    },
+    "QALD2_te-40": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_te-41": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Intel",
+                0.9999546437141862
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Intel": [
+                "intel"
+            ]
+        }
+    },
+    "QALD2_te-42": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Amanda_Palmer",
+                0.9999999989468904
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Amanda_Palmer": [
+                "amanda",
+                "palmer"
+            ]
+        }
+    },
+    "QALD2_te-43": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/German_Shepherd",
+                0.999999999999929
+            ],
+            [
+                "http://dbpedia.org/resource/Dog",
+                0.999509271509044
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Dog": [
+                "dog"
+            ],
+            "http://dbpedia.org/resource/German_Shepherd": [
+                "german",
+                "shepherd"
+            ]
+        }
+    },
+    "QALD2_te-44": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Weser",
+                0.9993737163269933
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Weser": [
+                "weser"
+            ]
+        }
+    },
+    "QALD2_te-45": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rhine",
+                0.9999357490528068
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Rhine": [
+                "rhine"
+            ]
+        }
+    },
+    "QALD2_te-46": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philippines",
+                0.9999016531750443
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Philippines": [
+                "philippines"
+            ]
+        }
+    },
+    "QALD2_te-48": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_Kingdom",
+                0.9962481386067713
+            ],
+            [
+                "http://dbpedia.org/resource/City",
+                0.8294291634511185
+            ],
+            [
+                "http://dbpedia.org/resource/Secret_Intelligence_Service",
+                0.9999842837991024
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/City": [
+                "city"
+            ],
+            "http://dbpedia.org/resource/Secret_Intelligence_Service": [
+                "mi6"
+            ],
+            "http://dbpedia.org/resource/United_Kingdom": [
+                "uk"
+            ]
+        }
+    },
+    "QALD2_te-49": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Uzi",
+                0.999278911478785
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Uzi": [
+                "uzi"
+            ]
+        }
+    },
+    "QALD2_te-5": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mountain",
+                0.9992678623907697
+            ],
+            [
+                "http://dbpedia.org/resource/Earth",
+                0.9998772157247551
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Earth": [
+                "earth"
+            ],
+            "http://dbpedia.org/resource/Mountain": [
+                "mountain"
+            ]
+        }
+    },
+    "QALD2_te-51": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Netherlands",
+                0.9996510739777281
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Netherlands": [
+                "netherlands"
+            ]
+        }
+    },
+    "QALD2_te-53": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Lisbon",
+                0.9999389571118023
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Lisbon": [
+                "lisbon"
+            ]
+        }
+    },
+    "QALD2_te-55": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Greek_mythology",
+                0.7626089876045583
+            ],
+            [
+                "http://dbpedia.org/resource/Mount_Olympus",
+                0.9999995857569394
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Greek_mythology": [
+                "greek"
+            ],
+            "http://dbpedia.org/resource/Mount_Olympus": [
+                "mount",
+                "olympus"
+            ]
+        }
+    },
+    "QALD2_te-57": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Apollo_14",
+                0.9999999999988205
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Apollo_14": [
+                "apollo",
+                "14"
+            ]
+        }
+    },
+    "QALD2_te-58": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Time_zone",
+                0.9961175390375772
+            ],
+            [
+                "http://dbpedia.org/resource/Salt_Lake_City",
+                0.9996749232535175
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Salt_Lake_City": [
+                "salt",
+                "lake",
+                "city"
+            ],
+            "http://dbpedia.org/resource/Time_zone": [
+                "time",
+                "zone"
+            ]
+        }
+    },
+    "QALD2_te-59": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Utah",
+                0.9971329442510435
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Utah": [
+                "utah"
+            ]
+        }
+    },
+    "QALD2_te-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sweden",
+                0.9978947766654643
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Sweden": [
+                "sweden"
+            ]
+        }
+    },
+    "QALD2_te-60": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Denmark",
+                0.9977060291273744
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Denmark": [
+                "denmark"
+            ]
+        }
+    },
+    "QALD2_te-63": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Argentina",
+                0.9542433209373382
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Argentina": [
+                "argentine"
+            ]
+        }
+    },
+    "QALD2_te-64": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/NASA",
+                0.9999946915131019
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/NASA": [
+                "nasa"
+            ]
+        }
+    },
+    "QALD2_te-65": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Lennon",
+                0.9999891648360475
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_Lennon": [
+                "john",
+                "lennon"
+            ]
+        }
+    },
+    "QALD2_te-66": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Benjamin_Franklin",
+                0.9999967933813392
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Benjamin_Franklin": [
+                "benjamin",
+                "franklin"
+            ]
+        }
+    },
+    "QALD2_te-67": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Juan_Carlos_I_of_Spain",
+                0.999523453274876
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Juan_Carlos_I_of_Spain": [
+                "juan",
+                "carlos",
+                "i"
+            ]
+        }
+    },
+    "QALD2_te-72": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Area_51",
+                0.9957532089804332
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Area_51": [
+                "area",
+                "51"
+            ]
+        }
+    },
+    "QALD2_te-75": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_te-76": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Margaret_Thatcher",
+                0.9999932579929877
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Margaret_Thatcher": [
+                "margaret",
+                "thatcher"
+            ]
+        }
+    },
+    "QALD2_te-77": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Scarface_(1983_film)",
+                0.9930350416149331
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Scarface_(1983_film)": [
+                "scarface"
+            ]
+        }
+    },
+    "QALD2_te-8": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Himalayas",
+                0.9976403474762174
+            ],
+            [
+                "http://dbpedia.org/resource/Mountain",
+                0.9998485327819051
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Himalayas": [
+                "himalayan"
+            ],
+            "http://dbpedia.org/resource/Mountain": [
+                "mountain"
+            ]
+        }
+    },
+    "QALD2_te-80": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/William_Goldman",
+                0.999999999706688
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/William_Goldman": [
+                "william",
+                "goldman"
+            ]
+        }
+    },
+    "QALD2_te-81": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Viking_Press",
+                0.9999996803303133
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Viking_Press": [
+                "viking",
+                "press"
+            ]
+        }
+    },
+    "QALD2_te-82": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.9883691992876478
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/United_States": [
+                "american"
+            ]
+        }
+    },
+    "QALD2_te-84": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Captain_America",
+                0.9996455673301207
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Captain_America": [
+                "captain",
+                "america"
+            ]
+        }
+    },
+    "QALD2_te-86": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Australia",
+                0.9955520552983986
+            ],
+            [
+                "http://dbpedia.org/resource/City",
+                0.8547784962337351
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Australia": [
+                "australia"
+            ],
+            "http://dbpedia.org/resource/City": [
+                "city"
+            ]
+        }
+    },
+    "QALD2_te-87": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Harold_Godwinson",
+                0.7737715996908108
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Harold_Godwinson": [
+                "harold"
+            ]
+        }
+    },
+    "QALD2_te-88": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Clint_Eastwood",
+                0.9999999999588027
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Clint_Eastwood": [
+                "clint",
+                "eastwood"
+            ]
+        }
+    },
+    "QALD2_te-89": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Netherlands",
+                0.716833956141838
+            ],
+            [
+                "http://dbpedia.org/resource/City",
+                0.9000801810092774
+            ],
+            [
+                "http://dbpedia.org/resource/Juliana_of_the_Netherlands",
+                0.9997906316427119
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/City": [
+                "city"
+            ],
+            "http://dbpedia.org/resource/Juliana_of_the_Netherlands": [
+                "queen",
+                "juliana"
+            ],
+            "http://dbpedia.org/resource/Netherlands": [
+                "dutch"
+            ]
+        }
+    },
+    "QALD2_te-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Trumpet",
+                0.9999947865420796
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Trumpet": [
+                "trumpet"
+            ]
+        }
+    },
+    "QALD2_te-90": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Spain",
+                0.9977325275212935
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Spain": [
+                "spain"
+            ]
+        }
+    },
+    "QALD2_te-91": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Minnesota",
+                0.9224326968475739
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Minnesota": [
+                "mn"
+            ]
+        }
+    },
+    "QALD2_te-92": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bruce_Springsteen",
+                0.9999999999996874
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bruce_Springsteen": [
+                "bruce",
+                "springsteen"
+            ]
+        }
+    },
+    "QALD2_te-93": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States_Army",
+                0.9060559325674978
+            ],
+            [
+                "http://dbpedia.org/resource/Sam_Raimi",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Sam_Raimi": [
+                "sam",
+                "raimi"
+            ],
+            "http://dbpedia.org/resource/United_States_Army": [
+                "army"
+            ]
+        }
+    },
+    "QALD2_te-95": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Poland_Is_Not_Yet_Lost",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Poland_Is_Not_Yet_Lost": [
+                "polish",
+                "national",
+                "anthem"
+            ]
+        }
+    },
+    "QALD2_te-97": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Melbourne_Storm",
+                0.6693161604815411
+            ],
+            [
+                "http://dbpedia.org/resource/Galilee",
+                0.9966264329676493
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Galilee": [
+                "galilee"
+            ],
+            "http://dbpedia.org/resource/Melbourne_Storm": [
+                "storm"
+            ]
+        }
+    },
+    "QALD2_te-98": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Miffy",
+                0.9999999974081817
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Miffy": [
+                "miffy"
+            ]
+        }
+    },
+    "QALD2_te-99": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-1": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Russian_language",
+                0.7527054267020067
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Russian_language": [
+                "russian"
+            ]
+        }
+    },
+    "QALD2_tr-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nile",
+                0.9984677696269034
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nile": [
+                "nile"
+            ]
+        }
+    },
+    "QALD2_tr-11": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-13": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Presbyterian_polity",
+                0.9999999999456151
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Presbyterian_polity": [
+                "classis"
+            ]
+        }
+    },
+    "QALD2_tr-15": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Goofy",
+                0.9994377615151518
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Goofy": [
+                "goofy"
+            ]
+        }
+    },
+    "QALD2_tr-16": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Africa",
+                0.9999328733574429
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Africa": [
+                "africa"
+            ]
+        }
+    },
+    "QALD2_tr-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_Jersey",
+                0.9999438653430505
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/New_Jersey": [
+                "new",
+                "jersey"
+            ]
+        }
+    },
+    "QALD2_tr-18": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Edvard_Munch",
+                0.9998341859674639
+            ],
+            [
+                "http://dbpedia.org/resource/Museum",
+                0.9977293082924519
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Edvard_Munch": [
+                "munch"
+            ],
+            "http://dbpedia.org/resource/Museum": [
+                "museum"
+            ]
+        }
+    },
+    "QALD2_tr-21": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Illinois",
+                0.9993977621915061
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Illinois": [
+                "illinois"
+            ]
+        }
+    },
+    "QALD2_tr-22": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Limerick_Lake",
+                0.9999999999388223
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Limerick_Lake": [
+                "limerick",
+                "lake"
+            ]
+        }
+    },
+    "QALD2_tr-23": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Walt_Disney",
+                0.9676261057327412
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Walt_Disney": [
+                "walt",
+                "disney"
+            ]
+        }
+    },
+    "QALD2_tr-24": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mountain",
+                0.999799184434598
+            ],
+            [
+                "http://dbpedia.org/resource/Annapurna_Massif",
+                0.9999463965657449
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Annapurna_Massif": [
+                "annapurna"
+            ],
+            "http://dbpedia.org/resource/Mountain": [
+                "mountain"
+            ]
+        }
+    },
+    "QALD2_tr-25": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Garry_Marshall",
+                1.0
+            ],
+            [
+                "http://dbpedia.org/resource/Julia_Roberts",
+                0.9999999999969731
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Garry_Marshall": [
+                "garry",
+                "marshall"
+            ],
+            "http://dbpedia.org/resource/Julia_Roberts": [
+                "julia",
+                "roberts"
+            ]
+        }
+    },
+    "QALD2_tr-26": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Manhattan_Bridge",
+                0.9999999999813838
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Manhattan_Bridge": [
+                "manhattan",
+                "bridge"
+            ]
+        }
+    },
+    "QALD2_tr-28": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Constitutional_monarchy",
+                0.9998325175496192
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Constitutional_monarchy": [
+                "constitutional",
+                "monarchy"
+            ]
+        }
+    },
+    "QALD2_tr-29": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/WikiLeaks",
+                0.9999973007489352
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/WikiLeaks": [
+                "wikileaks"
+            ]
+        }
+    },
+    "QALD2_tr-3": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bill_Clinton",
+                0.9999695330857457
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bill_Clinton": [
+                "bill",
+                "clinton"
+            ]
+        }
+    },
+    "QALD2_tr-30": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.9975468493395251
+            ],
+            [
+                "http://dbpedia.org/resource/Population_density",
+                0.9999983654218597
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Population_density": [
+                "population",
+                "density"
+            ],
+            "http://dbpedia.org/resource/United_States": [
+                "usa"
+            ]
+        }
+    },
+    "QALD2_tr-31": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Currency",
+                0.999419369468409
+            ],
+            [
+                "http://dbpedia.org/resource/Czech_Republic",
+                0.9986466406993558
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Currency": [
+                "currency"
+            ],
+            "http://dbpedia.org/resource/Czech_Republic": [
+                "czech",
+                "republic"
+            ]
+        }
+    },
+    "QALD2_tr-32": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/European_Union",
+                0.9999429166915772
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/European_Union": [
+                "european",
+                "union"
+            ]
+        }
+    },
+    "QALD2_tr-34": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-35": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Universal_Studios",
+                0.9921778563741329
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Universal_Studios": [
+                "universal",
+                "studios"
+            ]
+        }
+    },
+    "QALD2_tr-36": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Yenisei_River",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Yenisei_River": [
+                "yenisei",
+                "river"
+            ]
+        }
+    },
+    "QALD2_tr-38": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_Kingdom",
+                0.9980567864739753
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/United_Kingdom": [
+                "united",
+                "kingdom"
+            ]
+        }
+    },
+    "QALD2_tr-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge",
+                0.9999992757861584
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Brooklyn_Bridge": [
+                "brooklyn",
+                "bridge"
+            ]
+        }
+    },
+    "QALD2_tr-40": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mountain",
+                0.9992619743616161
+            ],
+            [
+                "http://dbpedia.org/resource/Australia",
+                0.9895803064295728
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Australia": [
+                "australia"
+            ],
+            "http://dbpedia.org/resource/Mountain": [
+                "mountain"
+            ]
+        }
+    },
+    "QALD2_tr-41": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Association_football",
+                0.9996955298787752
+            ],
+            [
+                "http://dbpedia.org/resource/Spain",
+                0.9924629844656541
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Association_football": [
+                "soccer"
+            ],
+            "http://dbpedia.org/resource/Spain": [
+                "spain"
+            ]
+        }
+    },
+    "QALD2_tr-42": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philippines",
+                0.9999428129741376
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Philippines": [
+                "philippines"
+            ]
+        }
+    },
+    "QALD2_tr-43": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_York_City",
+                0.9999921753542108
+            ],
+            [
+                "http://dbpedia.org/resource/Mayor",
+                0.9929502285783224
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Mayor": [
+                "mayor"
+            ],
+            "http://dbpedia.org/resource/New_York_City": [
+                "new",
+                "york",
+                "city"
+            ]
+        }
+    },
+    "QALD2_tr-44": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge",
+                0.999998490500462
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Brooklyn_Bridge": [
+                "brooklyn",
+                "bridge"
+            ]
+        }
+    },
+    "QALD2_tr-45": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Telecommunication",
+                0.9993150374218251
+            ],
+            [
+                "http://dbpedia.org/resource/Belgium",
+                0.9983103127399617
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Belgium": [
+                "belgium"
+            ],
+            "http://dbpedia.org/resource/Telecommunication": [
+                "telecommunications"
+            ]
+        }
+    },
+    "QALD2_tr-47": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Karakoram",
+                0.999999976709461
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Karakoram": [
+                "karakoram"
+            ]
+        }
+    },
+    "QALD2_tr-49": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-50": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bruce_Carver",
+                0.999999999995012
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bruce_Carver": [
+                "bruce",
+                "carver"
+            ]
+        }
+    },
+    "QALD2_tr-51": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-52": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-53": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.9998957005362644
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/United_States": [
+                "united",
+                "states"
+            ]
+        }
+    },
+    "QALD2_tr-54": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Abraham_Lincoln",
+                0.95042984921726
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Abraham_Lincoln": [
+                "lincoln"
+            ]
+        }
+    },
+    "QALD2_tr-55": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Video_game",
+                0.9997650939670629
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Video_game": [
+                "video",
+                "game"
+            ]
+        }
+    },
+    "QALD2_tr-57": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/HBO",
+                0.999984346481972
+            ],
+            [
+                "http://dbpedia.org/resource/The_Sopranos",
+                0.9999999999391349
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/HBO": [
+                "hbo"
+            ],
+            "http://dbpedia.org/resource/The_Sopranos": [
+                "the",
+                "sopranos"
+            ]
+        }
+    },
+    "QALD2_tr-58": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-59": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Abraham_Lincoln",
+                0.9999999788380765
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Abraham_Lincoln": [
+                "abraham",
+                "lincoln"
+            ]
+        }
+    },
+    "QALD2_tr-61": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nanga_Parbat",
+                0.999999999996291
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nanga_Parbat": [
+                "nanga",
+                "parbat"
+            ]
+        }
+    },
+    "QALD2_tr-62": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Wikipedia",
+                0.9992920498270963
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Wikipedia": [
+                "wikipedia"
+            ]
+        }
+    },
+    "QALD2_tr-63": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Batman_Begins",
+                0.9999994039054414
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Batman_Begins": [
+                "batman",
+                "begins"
+            ]
+        }
+    },
+    "QALD2_tr-64": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/California",
+                0.9999370146359291
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/California": [
+                "california"
+            ]
+        }
+    },
+    "QALD2_tr-65": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nuclear_reactor",
+                1.0
+            ],
+            [
+                "http://dbpedia.org/resource/Aerospace_manufacturer",
+                0.6262567547347909
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Aerospace_manufacturer": [
+                "aerospace",
+                "industry"
+            ],
+            "http://dbpedia.org/resource/Nuclear_reactor": [
+                "nuclear",
+                "reactor",
+                "technology"
+            ]
+        }
+    },
+    "QALD2_tr-68": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.9955600204975286
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Germany": [
+                "germany"
+            ]
+        }
+    },
+    "QALD2_tr-69": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-70": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hal_Roach",
+                0.9999999999833307
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Hal_Roach": [
+                "hal",
+                "roach"
+            ]
+        }
+    },
+    "QALD2_tr-71": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mean_Hamster_Software",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Mean_Hamster_Software": [
+                "mean",
+                "hamster",
+                "software"
+            ]
+        }
+    },
+    "QALD2_tr-72": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Estonia",
+                0.9991620091824202
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Estonia": [
+                "estonia"
+            ]
+        }
+    },
+    "QALD2_tr-73": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Aldi",
+                0.9999999232394531
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Aldi": [
+                "aldi"
+            ]
+        }
+    },
+    "QALD2_tr-74": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Europe",
+                0.999594049738461
+            ],
+            [
+                "http://dbpedia.org/resource/Summer_Olympic_Games",
+                0.9887414755083435
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Europe": [
+                "europe"
+            ],
+            "http://dbpedia.org/resource/Summer_Olympic_Games": [
+                "summer",
+                "olympic",
+                "games"
+            ]
+        }
+    },
+    "QALD2_tr-75": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.9999117257430453
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/United_States": [
+                "united",
+                "states"
+            ]
+        }
+    },
+    "QALD2_tr-77": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Last_Christmas",
+                0.9999978896488201
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Last_Christmas": [
+                "last",
+                "christmas"
+            ]
+        }
+    },
+    "QALD2_tr-78": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Danielle_Steel",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Danielle_Steel": [
+                "danielle",
+                "steel"
+            ]
+        }
+    },
+    "QALD2_tr-79": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.9982842823159931
+            ],
+            [
+                "http://dbpedia.org/resource/California",
+                0.9999453846099329
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/California": [
+                "california"
+            ],
+            "http://dbpedia.org/resource/United_States": [
+                "usa"
+            ]
+        }
+    },
+    "QALD2_tr-8": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Social_Democratic_Party_of_Germany",
+                0.8985141131806502
+            ],
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.9917222162364259
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Germany": [
+                "germany"
+            ],
+            "http://dbpedia.org/resource/Social_Democratic_Party_of_Germany": [
+                "social",
+                "democratic",
+                "party"
+            ]
+        }
+    },
+    "QALD2_tr-80": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canadians",
+                0.5944619210118806
+            ],
+            [
+                "http://dbpedia.org/resource/Grunge",
+                0.9999996570963978
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Canadians": [
+                "canadian"
+            ],
+            "http://dbpedia.org/resource/Grunge": [
+                "grunge"
+            ]
+        }
+    },
+    "QALD2_tr-81": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-82": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/GIMP",
+                0.9999999941119171
+            ],
+            [
+                "http://dbpedia.org/resource/Programming_language",
+                0.9984725401064718
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/GIMP": [
+                "gimp"
+            ],
+            "http://dbpedia.org/resource/Programming_language": [
+                "programming",
+                "language"
+            ]
+        }
+    },
+    "QALD2_tr-83": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Natalie_Portman",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Natalie_Portman": [
+                "natalie",
+                "portman"
+            ]
+        }
+    },
+    "QALD2_tr-84": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tom_Cruise",
+                0.9999999999971863
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tom_Cruise": [
+                "tom",
+                "cruise"
+            ]
+        }
+    },
+    "QALD2_tr-85": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Julia_Roberts",
+                0.9999999999980531
+            ],
+            [
+                "http://dbpedia.org/resource/Richard_Gere",
+                0.9999999999999858
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Julia_Roberts": [
+                "julia",
+                "roberts"
+            ],
+            "http://dbpedia.org/resource/Richard_Gere": [
+                "richard",
+                "gere"
+            ]
+        }
+    },
+    "QALD2_tr-86": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-87": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Earth",
+                0.9998890021827077
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Earth": [
+                "earth"
+            ]
+        }
+    },
+    "QALD2_tr-89": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Association_football",
+                0.999699265518955
+            ],
+            [
+                "http://dbpedia.org/resource/Premier_League",
+                0.9973156461557368
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Association_football": [
+                "soccer"
+            ],
+            "http://dbpedia.org/resource/Premier_League": [
+                "premier",
+                "league"
+            ]
+        }
+    },
+    "QALD2_tr-9": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-91": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "QALD2_tr-92": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mountain",
+                0.9988898906128177
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Mountain": [
+                "mountain"
+            ]
+        }
+    },
+    "SemSearch_ES-1": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hunting",
+                0.9975395200509064
+            ],
+            [
+                "http://dbpedia.org/resource/.44_Magnum",
+                0.9999931709844154
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/.44_Magnum": [
+                "44",
+                "magnum"
+            ],
+            "http://dbpedia.org/resource/Hunting": [
+                "hunting"
+            ]
+        }
+    },
+    "SemSearch_ES-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Asheville_Regional_Airport",
+                0.7493006204228007
+            ],
+            [
+                "http://dbpedia.org/resource/North_Carolina",
+                0.9992728552993062
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Asheville_Regional_Airport": [
+                "asheville"
+            ],
+            "http://dbpedia.org/resource/North_Carolina": [
+                "north",
+                "carolina"
+            ]
+        }
+    },
+    "SemSearch_ES-100": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tampa,_Florida",
+                0.7486536530281235
+            ],
+            [
+                "http://dbpedia.org/resource/YMCA",
+                0.9999920071788718
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tampa,_Florida": [
+                "tampa"
+            ],
+            "http://dbpedia.org/resource/YMCA": [
+                "ymca"
+            ]
+        }
+    },
+    "SemSearch_ES-101": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ashley_Wagner",
+                0.9999999999980673
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Ashley_Wagner": [
+                "ashley",
+                "wagner"
+            ]
+        }
+    },
+    "SemSearch_ES-102": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-104": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bourbonnais",
+                0.9989510837879276
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bourbonnais": [
+                "bourbonnais"
+            ]
+        }
+    },
+    "SemSearch_ES-106": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Chase_Masterson",
+                0.9999999999987281
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Chase_Masterson": [
+                "chase",
+                "masterson"
+            ]
+        }
+    },
+    "SemSearch_ES-107": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Steel",
+                0.9983904734751538
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Steel": [
+                "steel"
+            ]
+        }
+    },
+    "SemSearch_ES-108": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Danielia_Cotton",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Danielia_Cotton": [
+                "danielia",
+                "cotton"
+            ]
+        }
+    },
+    "SemSearch_ES-109": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/David_Hewlett",
+                0.9999999999740723
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/David_Hewlett": [
+                "david",
+                "hewlett"
+            ]
+        }
+    },
+    "SemSearch_ES-11": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-111": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rock_music",
+                0.9920023663440175
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Rock_music": [
+                "rock"
+            ]
+        }
+    },
+    "SemSearch_ES-114": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Glenn_Frey",
+                0.999999999999936
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Glenn_Frey": [
+                "glenn",
+                "frey"
+            ]
+        }
+    },
+    "SemSearch_ES-115": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Michigan",
+                0.9927608003381619
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Michigan": [
+                "michigan"
+            ]
+        }
+    },
+    "SemSearch_ES-118": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Iowa",
+                0.9967981886596158
+            ],
+            [
+                "http://dbpedia.org/resource/Energy",
+                0.9967388120348678
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Energy": [
+                "energy"
+            ],
+            "http://dbpedia.org/resource/Iowa": [
+                "iowa"
+            ]
+        }
+    },
+    "SemSearch_ES-119": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Elliott_(actor)",
+                0.6153973587086877
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_Elliott_(actor)": [
+                "john",
+                "elliott"
+            ]
+        }
+    },
+    "SemSearch_ES-12": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Austin,_Texas",
+                0.9996020305800394
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Austin,_Texas": [
+                "austin"
+            ]
+        }
+    },
+    "SemSearch_ES-120": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-123": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Michael_Jackson",
+                0.667095644198091
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Michael_Jackson": [
+                "michael"
+            ]
+        }
+    },
+    "SemSearch_ES-124": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Motorola",
+                0.9617393337455274
+            ],
+            [
+                "http://dbpedia.org/resource/Bluetooth",
+                0.9999999999993605
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Bluetooth": [
+                "bluetooth"
+            ],
+            "http://dbpedia.org/resource/Motorola": [
+                "motorola"
+            ]
+        }
+    },
+    "SemSearch_ES-125": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nokia_E72",
+                0.9999999999999858
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nokia_E72": [
+                "nokia",
+                "e73"
+            ]
+        }
+    },
+    "SemSearch_ES-127": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Palm_Tungsten",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Palm_Tungsten": [
+                "palm",
+                "tungsten"
+            ]
+        }
+    },
+    "SemSearch_ES-128": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philadelphia",
+                0.9999474045527602
+            ],
+            [
+                "http://dbpedia.org/resource/Cheese",
+                0.9999503783576756
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cheese": [
+                "cheese"
+            ],
+            "http://dbpedia.org/resource/Philadelphia": [
+                "philadelphia"
+            ]
+        }
+    },
+    "SemSearch_ES-129": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Pizza",
+                0.9998439783066876
+            ],
+            [
+                "http://dbpedia.org/resource/Detroit",
+                0.9983631313504463
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Detroit": [
+                "detroit"
+            ],
+            "http://dbpedia.org/resource/Pizza": [
+                "pizza"
+            ]
+        }
+    },
+    "SemSearch_ES-13": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Banana_paper",
+                0.9999984740252817
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Banana_paper": [
+                "banana",
+                "paper"
+            ]
+        }
+    },
+    "SemSearch_ES-130": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Plymouth_City_Police",
+                0.9999999999304379
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Plymouth_City_Police": [
+                "plymouth",
+                "police"
+            ]
+        }
+    },
+    "SemSearch_ES-131": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/San_Diego",
+                0.9999366376566522
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/San_Diego": [
+                "san",
+                "diego"
+            ]
+        }
+    },
+    "SemSearch_ES-132": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mattress",
+                0.9999999989758734
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Mattress": [
+                "mattress"
+            ]
+        }
+    },
+    "SemSearch_ES-135": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-136": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Government_gazette",
+                0.995310187137025
+            ],
+            [
+                "http://dbpedia.org/resource/Sri_Lanka",
+                0.9988751590656278
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Government_gazette": [
+                "government",
+                "gazette"
+            ],
+            "http://dbpedia.org/resource/Sri_Lanka": [
+                "sri",
+                "lanka"
+            ]
+        }
+    },
+    "SemSearch_ES-137": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Steak",
+                0.9991568046813863
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Steak": [
+                "steak"
+            ]
+        }
+    },
+    "SemSearch_ES-139": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Steakhouse",
+                0.9999999999943157
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Steakhouse": [
+                "steak",
+                "house"
+            ]
+        }
+    },
+    "SemSearch_ES-14": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Benjamin_Franklin",
+                0.9999891695272805
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Benjamin_Franklin": [
+                "ben",
+                "franklin"
+            ]
+        }
+    },
+    "SemSearch_ES-141": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-15": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-16": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge",
+                0.999997717574353
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Brooklyn_Bridge": [
+                "brooklyn",
+                "bridge"
+            ]
+        }
+    },
+    "SemSearch_ES-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Butte,_Montana",
+                0.999999990062463
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Butte,_Montana": [
+                "butte",
+                "montana"
+            ]
+        }
+    },
+    "SemSearch_ES-18": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canasta",
+                0.9999999993107522
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Canasta": [
+                "canasta"
+            ]
+        }
+    },
+    "SemSearch_ES-19": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Carl_Lewis",
+                0.9999999999722
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Carl_Lewis": [
+                "carl",
+                "lewis"
+            ]
+        }
+    },
+    "SemSearch_ES-2": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-20": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-21": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Charles_Darwin",
+                0.9999616446651511
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Charles_Darwin": [
+                "charles",
+                "darwin"
+            ]
+        }
+    },
+    "SemSearch_ES-22": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/City",
+                0.8517820076325147
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/City": [
+                "city"
+            ]
+        }
+    },
+    "SemSearch_ES-23": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Virginia_Beach,_Virginia",
+                0.9999845941420099
+            ],
+            [
+                "http://dbpedia.org/resource/City",
+                0.8669787542672811
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/City": [
+                "city"
+            ],
+            "http://dbpedia.org/resource/Virginia_Beach,_Virginia": [
+                "virginia",
+                "beach"
+            ]
+        }
+    },
+    "SemSearch_ES-24": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-25": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/David_Suchet",
+                0.9999999999930331
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/David_Suchet": [
+                "david",
+                "suchet"
+            ]
+        }
+    },
+    "SemSearch_ES-26": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Orlando_Magic",
+                0.7175450691715578
+            ],
+            [
+                "http://dbpedia.org/resource/The_Walt_Disney_Company",
+                0.970546430548514
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Orlando_Magic": [
+                "orlando"
+            ],
+            "http://dbpedia.org/resource/The_Walt_Disney_Company": [
+                "disney"
+            ]
+        }
+    },
+    "SemSearch_ES-28": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/El_Salvador",
+                0.9893557804180007
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/El_Salvador": [
+                "el",
+                "salvador"
+            ]
+        }
+    },
+    "SemSearch_ES-29": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_York_Institute_of_Technology",
+                0.9999999975190725
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/New_York_Institute_of_Technology": [
+                "ellis",
+                "college"
+            ]
+        }
+    },
+    "SemSearch_ES-3": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-30": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-31": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nail_file",
+                0.9802603360096291
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nail_file": [
+                "emery"
+            ]
+        }
+    },
+    "SemSearch_ES-32": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Chambersburg_Maroons",
+                0.7740746931873004
+            ],
+            [
+                "http://dbpedia.org/resource/Auto_row",
+                0.9999999999854623
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Auto_row": [
+                "auto",
+                "mall"
+            ],
+            "http://dbpedia.org/resource/Chambersburg_Maroons": [
+                "chambersburg"
+            ]
+        }
+    },
+    "SemSearch_ES-33": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Harry_Potter",
+                0.9998563086624427
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Harry_Potter": [
+                "harry",
+                "potter"
+            ]
+        }
+    },
+    "SemSearch_ES-34": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Harry_Potter",
+                0.9999044160075556
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Harry_Potter": [
+                "harry",
+                "potter"
+            ]
+        }
+    },
+    "SemSearch_ES-36": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Batman_Returns",
+                0.9999987027149005
+            ],
+            [
+                "http://dbpedia.org/resource/IMDb",
+                0.9999999934397898
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Batman_Returns": [
+                "batman",
+                "returns"
+            ],
+            "http://dbpedia.org/resource/IMDb": [
+                "imdb"
+            ]
+        }
+    },
+    "SemSearch_ES-37": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Jack_Johnson_(musician)",
+                0.6427587700955814
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Jack_Johnson_(musician)": [
+                "jack",
+                "johnson"
+            ]
+        }
+    },
+    "SemSearch_ES-38": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-39": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/James_Caldwell_High_School",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/James_Caldwell_High_School": [
+                "james",
+                "caldwell",
+                "high",
+                "school"
+            ]
+        }
+    },
+    "SemSearch_ES-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/NAACP_Image_Award",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/NAACP_Image_Award": [
+                "naacp",
+                "image",
+                "awards"
+            ]
+        }
+    },
+    "SemSearch_ES-40": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/James_Clayton_(engineer)",
+                0.9999667633953855
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/James_Clayton_(engineer)": [
+                "james",
+                "clayton"
+            ]
+        }
+    },
+    "SemSearch_ES-41": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-42": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-45": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Keith_Urban",
+                0.9999999658150257
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Keith_Urban": [
+                "keith",
+                "urban"
+            ]
+        }
+    },
+    "SemSearch_ES-47": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/King_Arthur",
+                0.99997555071032
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/King_Arthur": [
+                "king",
+                "arthur"
+            ]
+        }
+    },
+    "SemSearch_ES-49": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Laura_Bush",
+                0.999999999999023
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Laura_Bush": [
+                "laura",
+                "bush"
+            ]
+        }
+    },
+    "SemSearch_ES-5": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-50": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-52": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Abraham_Lincoln",
+                0.8086172032181665
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Abraham_Lincoln": [
+                "lincoln"
+            ]
+        }
+    },
+    "SemSearch_ES-53": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Virginia",
+                0.9995290661518033
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Virginia": [
+                "virginia"
+            ]
+        }
+    },
+    "SemSearch_ES-54": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Marc_Anthony",
+                0.9979510205004029
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Marc_Anthony": [
+                "marc",
+                "anthony"
+            ]
+        }
+    },
+    "SemSearch_ES-56": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-57": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Martin_Luther",
+                0.9973123246240853
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Martin_Luther": [
+                "martin",
+                "luther"
+            ]
+        }
+    },
+    "SemSearch_ES-58": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ohio",
+                0.9959500515361166
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Ohio": [
+                "ohio"
+            ]
+        }
+    },
+    "SemSearch_ES-59": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Des_Moines,_Iowa",
+                1.0
+            ],
+            [
+                "http://dbpedia.org/resource/Mercy_Hospital_and_Medical_Center",
+                0.9985037250258717
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Des_Moines,_Iowa": [
+                "des",
+                "moines",
+                "ia"
+            ],
+            "http://dbpedia.org/resource/Mercy_Hospital_and_Medical_Center": [
+                "mercy",
+                "hospital"
+            ]
+        }
+    },
+    "SemSearch_ES-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Air_Wisconsin",
+                0.999999995771713
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Air_Wisconsin": [
+                "air",
+                "wisconsin"
+            ]
+        }
+    },
+    "SemSearch_ES-60": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Michael_Jackson",
+                0.7123213449940244
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Michael_Jackson": [
+                "michael"
+            ]
+        }
+    },
+    "SemSearch_ES-61": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Fantasy_Island",
+                0.9999649478971305
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Fantasy_Island": [
+                "fantasy",
+                "island"
+            ]
+        }
+    },
+    "SemSearch_ES-63": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Winchester_Repeating_Arms_Company",
+                0.6547532619827467
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Winchester_Repeating_Arms_Company": [
+                "winchester"
+            ]
+        }
+    },
+    "SemSearch_ES-65": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Orlando_Magic",
+                0.8132673283786506
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Orlando_Magic": [
+                "orlando"
+            ]
+        }
+    },
+    "SemSearch_ES-66": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Overeaters_Anonymous",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Overeaters_Anonymous": [
+                "overeaters",
+                "anonymous"
+            ]
+        }
+    },
+    "SemSearch_ES-67": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/OVGuide",
+                0.9999999963472277
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/OVGuide": [
+                "ovguide"
+            ]
+        }
+    },
+    "SemSearch_ES-68": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Pierce_County,_Washington",
+                0.94870993102003
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Pierce_County,_Washington": [
+                "pierce",
+                "county"
+            ]
+        }
+    },
+    "SemSearch_ES-7": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Airsoft",
+                0.9981124593457745
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Airsoft": [
+                "airsoft"
+            ]
+        }
+    },
+    "SemSearch_ES-70": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Radio",
+                0.9700017925633256
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Radio": [
+                "radio"
+            ]
+        }
+    },
+    "SemSearch_ES-71": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Richmond,_Virginia",
+                0.9999999963427477
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Richmond,_Virginia": [
+                "richmond",
+                "virginia"
+            ]
+        }
+    },
+    "SemSearch_ES-72": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rock_music",
+                0.9788096181220703
+            ],
+            [
+                "http://dbpedia.org/resource/Memphis_Grizzlies",
+                0.8104439676582148
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Memphis_Grizzlies": [
+                "memphis"
+            ],
+            "http://dbpedia.org/resource/Rock_music": [
+                "rock"
+            ]
+        }
+    },
+    "SemSearch_ES-73": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rowan_University",
+                0.9999999999980602
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Rowan_University": [
+                "rowan",
+                "university"
+            ]
+        }
+    },
+    "SemSearch_ES-74": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-75": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Church_(building)",
+                0.6773642382175135
+            ],
+            [
+                "http://dbpedia.org/resource/Houston",
+                0.9999917051344748
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Church_(building)": [
+                "church"
+            ],
+            "http://dbpedia.org/resource/Houston": [
+                "houston"
+            ]
+        }
+    },
+    "SemSearch_ES-76": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/San_Antonio",
+                0.9921591042962264
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/San_Antonio": [
+                "san",
+                "antonio"
+            ]
+        }
+    },
+    "SemSearch_ES-77": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Savannah_Technical_College",
+                0.9999999999899636
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Savannah_Technical_College": [
+                "savannah",
+                "tech"
+            ]
+        }
+    },
+    "SemSearch_ES-78": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-79": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Shobana",
+                0.9999998828196863
+            ],
+            [
+                "http://dbpedia.org/resource/Spice_mix",
+                0.7881438846141349
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Shobana": [
+                "shobana"
+            ],
+            "http://dbpedia.org/resource/Spice_mix": [
+                "masala"
+            ]
+        }
+    },
+    "SemSearch_ES-80": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cher",
+                0.9999994025666447
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cher": [
+                "cher"
+            ]
+        }
+    },
+    "SemSearch_ES-81": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/South_Dakota",
+                0.9950185086881378
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/South_Dakota": [
+                "south",
+                "dakota"
+            ]
+        }
+    },
+    "SemSearch_ES-82": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Saint_Lucia",
+                0.9989986828106666
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Saint_Lucia": [
+                "st",
+                "lucia"
+            ]
+        }
+    },
+    "SemSearch_ES-83": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Paul_the_Apostle",
+                0.9992549492777871
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Paul_the_Apostle": [
+                "st",
+                "paul"
+            ]
+        }
+    },
+    "SemSearch_ES-84": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Danielle_Fishel",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Danielle_Fishel": [
+                "danielle",
+                "fishel"
+            ]
+        }
+    },
+    "SemSearch_ES-85": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Garage_sale",
+                0.9999999994882742
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Garage_sale": [
+                "yard",
+                "sale"
+            ]
+        }
+    },
+    "SemSearch_ES-86": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Lehigh_Valley",
+                0.9955298086088397
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Lehigh_Valley": [
+                "lehigh",
+                "valley"
+            ]
+        }
+    },
+    "SemSearch_ES-88": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Thomas_Jefferson",
+                0.9999618601041974
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Thomas_Jefferson": [
+                "thomas",
+                "jefferson"
+            ]
+        }
+    },
+    "SemSearch_ES-89": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/North_Dakota",
+                0.9901863550281743
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/North_Dakota": [
+                "north",
+                "dakota"
+            ]
+        }
+    },
+    "SemSearch_ES-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nairobi",
+                0.9999174758570568
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nairobi": [
+                "nairobi"
+            ]
+        }
+    },
+    "SemSearch_ES-90": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Fenghuang",
+                0.6493378720921968
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Fenghuang": [
+                "phoenix"
+            ]
+        }
+    },
+    "SemSearch_ES-91": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Westminster_Abbey",
+                0.9999459236164305
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Westminster_Abbey": [
+                "westminster",
+                "abbey"
+            ]
+        }
+    },
+    "SemSearch_ES-93": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Toyota_Tundra",
+                0.9999999999995879
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Toyota_Tundra": [
+                "toyota",
+                "tundra"
+            ]
+        }
+    },
+    "SemSearch_ES-94": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hugh_Downs",
+                0.9999999999667537
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Hugh_Downs": [
+                "hugh",
+                "downs"
+            ]
+        }
+    },
+    "SemSearch_ES-95": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_ES-96": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_England",
+                0.9964934279709898
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/New_England": [
+                "new",
+                "england"
+            ]
+        }
+    },
+    "SemSearch_ES-97": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Pink_Panther",
+                0.8806018393540427
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/The_Pink_Panther": [
+                "pink",
+                "panther"
+            ]
+        }
+    },
+    "SemSearch_ES-98": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Austin,_Texas",
+                0.9998831365518969
+            ],
+            [
+                "http://dbpedia.org/resource/Texas",
+                0.9735546241314335
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Austin,_Texas": [
+                "austin"
+            ],
+            "http://dbpedia.org/resource/Texas": [
+                "texas"
+            ]
+        }
+    },
+    "SemSearch_ES-99": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-1": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Moon",
+                0.9999992173313793
+            ],
+            [
+                "http://dbpedia.org/resource/Apollo_program",
+                0.9937570326285986
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Apollo_program": [
+                "apollo"
+            ],
+            "http://dbpedia.org/resource/Moon": [
+                "moon"
+            ]
+        }
+    },
+    "SemSearch_LS-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nicole_Kidman",
+                0.999999999995481
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nicole_Kidman": [
+                "nicole",
+                "kidman"
+            ]
+        }
+    },
+    "SemSearch_LS-11": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ireland",
+                0.7102265631070471
+            ],
+            [
+                "http://dbpedia.org/resource/Catholic_Church",
+                0.722000879767592
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Catholic_Church": [
+                "church"
+            ],
+            "http://dbpedia.org/resource/Ireland": [
+                "ireland"
+            ]
+        }
+    },
+    "SemSearch_LS-12": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nuclear_weapon",
+                0.9909803197822676
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Nuclear_weapon": [
+                "atomic",
+                "bomb"
+            ]
+        }
+    },
+    "SemSearch_LS-13": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tamil_language",
+                0.9515616585787355
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Tamil_language": [
+                "tamil"
+            ]
+        }
+    },
+    "SemSearch_LS-14": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mount_Olympus",
+                0.9999979223190733
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Mount_Olympus": [
+                "mount",
+                "olympus"
+            ]
+        }
+    },
+    "SemSearch_LS-16": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/September_11_attacks",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/September_11_attacks": [
+                "september",
+                "11",
+                "attacks"
+            ]
+        }
+    },
+    "SemSearch_LS-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/State_Duma",
+                0.7192363877289785
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/State_Duma": [
+                "russian",
+                "parliament"
+            ]
+        }
+    },
+    "SemSearch_LS-18": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Lennon",
+                0.9999873009450169
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_Lennon": [
+                "john",
+                "lennon"
+            ]
+        }
+    },
+    "SemSearch_LS-19": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cricket",
+                0.9999536145535526
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cricket": [
+                "cricket"
+            ]
+        }
+    },
+    "SemSearch_LS-2": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Arabs",
+                0.9845136890826403
+            ],
+            [
+                "http://dbpedia.org/resource/Persian_Gulf",
+                0.9982038575991053
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Arabs": [
+                "arab"
+            ],
+            "http://dbpedia.org/resource/Persian_Gulf": [
+                "persian",
+                "gulf"
+            ]
+        }
+    },
+    "SemSearch_LS-20": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Kublai_Khan",
+                0.9999999998253202
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Kublai_Khan": [
+                "kublai",
+                "khan"
+            ]
+        }
+    },
+    "SemSearch_LS-21": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-22": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-24": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Matt_Berry",
+                0.999999991210494
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Matt_Berry": [
+                "matt",
+                "berry"
+            ]
+        }
+    },
+    "SemSearch_LS-25": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-26": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Erykah_Badu",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Erykah_Badu": [
+                "erykah",
+                "badu"
+            ]
+        }
+    },
+    "SemSearch_LS-29": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Official_language",
+                0.9997093347965016
+            ],
+            [
+                "http://dbpedia.org/resource/Portuguese_language",
+                0.7685240579026862
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Official_language": [
+                "official",
+                "language"
+            ],
+            "http://dbpedia.org/resource/Portuguese_language": [
+                "portuguese"
+            ]
+        }
+    },
+    "SemSearch_LS-3": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Moon",
+                0.999978819658504
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Moon": [
+                "moon"
+            ]
+        }
+    },
+    "SemSearch_LS-30": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-31": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_Nations_Security_Council",
+                0.9997218079939009
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/United_Nations_Security_Council": [
+                "un",
+                "security",
+                "council"
+            ]
+        }
+    },
+    "SemSearch_LS-32": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mount_Rushmore",
+                0.9999999999825206
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Mount_Rushmore": [
+                "mount",
+                "rushmore"
+            ]
+        }
+    },
+    "SemSearch_LS-33": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.9997287588264123
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Canada": [
+                "canada"
+            ]
+        }
+    },
+    "SemSearch_LS-34": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ratt",
+                0.9999992862465443
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Ratt": [
+                "ratt"
+            ]
+        }
+    },
+    "SemSearch_LS-35": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Yugoslavia",
+                0.6646046407275112
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Yugoslavia": [
+                "yugoslavia"
+            ]
+        }
+    },
+    "SemSearch_LS-36": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cuba",
+                0.9999362787920976
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cuba": [
+                "cuba"
+            ]
+        }
+    },
+    "SemSearch_LS-37": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Set_theory",
+                0.9992402263848902
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Set_theory": [
+                "set",
+                "theory"
+            ]
+        }
+    },
+    "SemSearch_LS-38": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Oklahoma",
+                0.9973638754604048
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Oklahoma": [
+                "oklahoma"
+            ]
+        }
+    },
+    "SemSearch_LS-39": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cyprus",
+                0.9999971392246885
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Cyprus": [
+                "cyprus"
+            ]
+        }
+    },
+    "SemSearch_LS-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_War_II",
+                0.9999823008617876
+            ],
+            [
+                "http://dbpedia.org/resource/Axis_powers",
+                0.9999999999953388
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Axis_powers": [
+                "axis",
+                "powers"
+            ],
+            "http://dbpedia.org/resource/World_War_II": [
+                "world",
+                "war",
+                "ii"
+            ]
+        }
+    },
+    "SemSearch_LS-40": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-41": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Prophet",
+                0.7704692583913828
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Prophet": [
+                "prophet"
+            ]
+        }
+    },
+    "SemSearch_LS-42": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Israel",
+                0.9965925287901178
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Israel": [
+                "israel"
+            ]
+        }
+    },
+    "SemSearch_LS-43": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Arthropod_leg",
+                0.9118759414282394
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Arthropod_leg": [
+                "tarsus"
+            ]
+        }
+    },
+    "SemSearch_LS-44": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-46": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom",
+                0.9956931984555343
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom": [
+                "british",
+                "monarch"
+            ]
+        }
+    },
+    "SemSearch_LS-49": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Python_(programming_language)",
+                0.9999999999990195
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Python_(programming_language)": [
+                "python",
+                "programming",
+                "language"
+            ]
+        }
+    },
+    "SemSearch_LS-5": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Jews",
+                0.9247763205404488
+            ],
+            [
+                "http://dbpedia.org/resource/Biblical_canon",
+                0.9229416657940794
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Biblical_canon": [
+                "canon"
+            ],
+            "http://dbpedia.org/resource/Jews": [
+                "jewish"
+            ]
+        }
+    },
+    "SemSearch_LS-50": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_York_City",
+                0.999987851662377
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/New_York_City": [
+                "new",
+                "york",
+                "city"
+            ]
+        }
+    },
+    "SemSearch_LS-7": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-8": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "SemSearch_LS-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Monasticism",
+                0.9581021158250616
+            ],
+            [
+                "http://dbpedia.org/resource/Eastern_Orthodox_Church",
+                0.9993860369672367
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Eastern_Orthodox_Church": [
+                "eastern",
+                "orthodox"
+            ],
+            "http://dbpedia.org/resource/Monasticism": [
+                "monasticism"
+            ]
+        }
+    },
+    "TREC_Entity-1": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "TREC_Entity-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Indiana_University",
+                0.8972586966875616
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Indiana_University": [
+                "indiana",
+                "university"
+            ]
+        }
+    },
+    "TREC_Entity-11": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Home_Depot",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/The_Home_Depot": [
+                "home",
+                "depot"
+            ]
+        }
+    },
+    "TREC_Entity-12": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Air_Canada",
+                0.9999999999996589
+            ],
+            [
+                "http://dbpedia.org/resource/Codeshare_agreement",
+                0.9999999999999716
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Air_Canada": [
+                "air",
+                "canada"
+            ],
+            "http://dbpedia.org/resource/Codeshare_agreement": [
+                "code",
+                "share"
+            ]
+        }
+    },
+    "TREC_Entity-14": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bouchercon",
+                0.9999999999503189
+            ],
+            [
+                "http://dbpedia.org/resource/Anthony_Awards",
+                0.9997020965519695
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Anthony_Awards": [
+                "anthony",
+                "award"
+            ],
+            "http://dbpedia.org/resource/Bouchercon": [
+                "bouchercon"
+            ]
+        }
+    },
+    "TREC_Entity-15": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Southeastern_Conference",
+                0.9969366713526989
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Southeastern_Conference": [
+                "sec"
+            ]
+        }
+    },
+    "TREC_Entity-16": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Quilt",
+                0.9999729795786818
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Quilt": [
+                "quilt"
+            ]
+        }
+    },
+    "TREC_Entity-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Food_Network",
+                0.999999638195378
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Food_Network": [
+                "food",
+                "network"
+            ]
+        }
+    },
+    "TREC_Entity-18": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Jefferson_Airplane",
+                0.999999994413912
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Jefferson_Airplane": [
+                "jefferson",
+                "airplane"
+            ]
+        }
+    },
+    "TREC_Entity-19": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_F._Hennessey",
+                0.9999948190056706
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/John_F._Hennessey": [
+                "john",
+                "hennessey"
+            ]
+        }
+    },
+    "TREC_Entity-2": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Association_for_Computing_Machinery",
+                0.9993572777556672
+            ],
+            [
+                "http://dbpedia.org/resource/Athena",
+                0.9999545490640804
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Association_for_Computing_Machinery": [
+                "acm"
+            ],
+            "http://dbpedia.org/resource/Athena": [
+                "athena"
+            ]
+        }
+    },
+    "TREC_Entity-20": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Scotch_whisky",
+                0.9999256187373324
+            ],
+            [
+                "http://dbpedia.org/resource/Islay_whisky",
+                0.7535387989336014
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Islay_whisky": [
+                "islay"
+            ],
+            "http://dbpedia.org/resource/Scotch_whisky": [
+                "scotch",
+                "whisky"
+            ]
+        }
+    },
+    "TREC_Entity-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philadelphia",
+                0.9974452469028178
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Philadelphia": [
+                "philadelphia"
+            ]
+        }
+    },
+    "TREC_Entity-5": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/MedImmune",
+                0.9999999206439472
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/MedImmune": [
+                "medimmune"
+            ]
+        }
+    },
+    "TREC_Entity-6": {
+        "entities": [],
+        "surface_tokens": {}
+    },
+    "TREC_Entity-7": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Boeing_747",
+                0.9942424327944457
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Boeing_747": [
+                "boeing",
+                "747"
+            ]
+        }
+    },
+    "TREC_Entity-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Beaux_Arts_Trio",
+                1.0
+            ]
+        ],
+        "surface_tokens": {
+            "http://dbpedia.org/resource/Beaux_Arts_Trio": [
+                "beaux",
+                "arts",
+                "trio"
+            ]
+        }
+    }
+}

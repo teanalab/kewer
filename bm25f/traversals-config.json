@@ -1,0 +1,8 @@
+{
+  "traversals": [
+    {
+      "name": "org.lemurproject.galago.contrib.retrieval.traversal.BM25FTraversal",
+      "order": "before"
+    }
+  ]
+}

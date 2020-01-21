@@ -1,0 +1,31 @@
+{
+  "limitRange" : true,
+  "restarts" : 5,
+  "initialParameters" : [{
+    "smoothing_names" : 0.75,
+    "smoothing_attributes" : 0.75,
+    "smoothing_categories" : 0.75,
+    "smoothing_similarentitynames" : 0.75,
+    "smoothing_relatedentitynames" : 0.75,
+    "weight_names" : 1.0,
+    "weight_attributes" : 1.0,
+    "weight_categories" : 1.0,
+    "weight_similarentitynames" : 1.0,
+    "weight_relatedentitynames" : 1.0,
+    "K" : 1.2
+  }],
+
+  "learnableParameters":[
+    {"max":1.0, "min":0.0, "name":"smoothing_names"},
+    {"max":1.0, "min":0.0, "name":"smoothing_attributes"},
+    {"max":1.0, "min":0.0, "name":"smoothing_categories"},
+    {"max":1.0, "min":0.0, "name":"smoothing_similarentitynames"},
+    {"max":1.0, "min":0.0, "name":"smoothing_relatedentitynames"},
+    {"max":100.0, "min":0.0, "name":"weight_names"},
+    {"max":100.0, "min":0.0, "name":"weight_attributes"},
+    {"max":100.0, "min":0.0, "name":"weight_categories"},
+    {"max":100.0, "min":0.0, "name":"weight_similarentitynames"},
+    {"max":100.0, "min":0.0, "name":"weight_relatedentitynames"},
+    {"max":100.0, "min":0.0, "name":"K"}
+  ]
+}

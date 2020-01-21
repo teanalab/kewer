@@ -1,0 +1,9 @@
+{
+  "fields": [
+    "names",
+    "attributes",
+    "categories",
+    "similarentitynames",
+    "relatedentitynames"
+  ]
+}

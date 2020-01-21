@@ -1,0 +1,3753 @@
+{
+    "INEX_LD-2009022": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sichuan",
+                0.5115714285714286
+            ]
+        ]
+    },
+    "INEX_LD-2009039": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ancient_Rome",
+                0.15714285714285714
+            ]
+        ]
+    },
+    "INEX_LD-2009053": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sisu_Auto",
+                0.2671428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/Finland",
+                0.2075714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Saab_Automobile",
+                0.10285714285714286
+            ]
+        ]
+    },
+    "INEX_LD-2009061": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/France",
+                0.3314285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Normandy",
+                0.11571428571428571
+            ]
+        ]
+    },
+    "INEX_LD-2009062": {
+        "entities": []
+    },
+    "INEX_LD-2009063": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Normandy",
+                0.16464285714285715
+            ]
+        ]
+    },
+    "INEX_LD-2009074": {
+        "entities": []
+    },
+    "INEX_LD-2009096": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Eiffel_Tower",
+                0.13714285714285715
+            ]
+        ]
+    },
+    "INEX_LD-2009111": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Europe",
+                0.18557142857142858
+            ]
+        ]
+    },
+    "INEX_LD-2009115": {
+        "entities": []
+    },
+    "INEX_LD-2010004": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/India",
+                0.10571428571428572
+            ]
+        ]
+    },
+    "INEX_LD-2010014": {
+        "entities": []
+    },
+    "INEX_LD-2010019": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Paris",
+                0.49142857142857144
+            ]
+        ]
+    },
+    "INEX_LD-2010020": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/France",
+                0.27
+            ]
+        ]
+    },
+    "INEX_LD-2010037": {
+        "entities": []
+    },
+    "INEX_LD-2010043": {
+        "entities": []
+    },
+    "INEX_LD-2010057": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Albert_Einstein",
+                0.42642857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/Relativity:_The_Special_and_the_General_Theory",
+                0.13
+            ]
+        ]
+    },
+    "INEX_LD-2010069": {
+        "entities": []
+    },
+    "INEX_LD-2010100": {
+        "entities": []
+    },
+    "INEX_LD-2010106": {
+        "entities": []
+    },
+    "INEX_LD-20120111": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vietnam",
+                0.10785714285714286
+            ]
+        ]
+    },
+    "INEX_LD-20120112": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vietnam",
+                0.10785714285714286
+            ]
+        ]
+    },
+    "INEX_LD-20120121": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vietnam",
+                0.24149319727891155
+            ]
+        ]
+    },
+    "INEX_LD-20120122": {
+        "entities": []
+    },
+    "INEX_LD-20120131": {
+        "entities": []
+    },
+    "INEX_LD-20120132": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vietnam",
+                0.24149319727891155
+            ]
+        ]
+    },
+    "INEX_LD-20120211": {
+        "entities": []
+    },
+    "INEX_LD-20120212": {
+        "entities": []
+    },
+    "INEX_LD-20120221": {
+        "entities": []
+    },
+    "INEX_LD-20120222": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Johann_Sebastian_Bach",
+                0.1457142857142857
+            ]
+        ]
+    },
+    "INEX_LD-20120231": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Russia",
+                0.27672619047619046
+            ]
+        ]
+    },
+    "INEX_LD-20120232": {
+        "entities": []
+    },
+    "INEX_LD-20120311": {
+        "entities": []
+    },
+    "INEX_LD-20120312": {
+        "entities": []
+    },
+    "INEX_LD-20120321": {
+        "entities": []
+    },
+    "INEX_LD-20120322": {
+        "entities": []
+    },
+    "INEX_LD-20120331": {
+        "entities": []
+    },
+    "INEX_LD-20120332": {
+        "entities": []
+    },
+    "INEX_LD-20120411": {
+        "entities": []
+    },
+    "INEX_LD-20120412": {
+        "entities": []
+    },
+    "INEX_LD-20120421": {
+        "entities": []
+    },
+    "INEX_LD-20120422": {
+        "entities": []
+    },
+    "INEX_LD-20120431": {
+        "entities": []
+    },
+    "INEX_LD-20120432": {
+        "entities": []
+    },
+    "INEX_LD-20120511": {
+        "entities": []
+    },
+    "INEX_LD-20120512": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/South_Korea",
+                0.31607142857142856
+            ]
+        ]
+    },
+    "INEX_LD-20120521": {
+        "entities": []
+    },
+    "INEX_LD-20120522": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Digital_audio",
+                0.2842857142857143
+            ]
+        ]
+    },
+    "INEX_LD-20120531": {
+        "entities": []
+    },
+    "INEX_LD-20120532": {
+        "entities": []
+    },
+    "INEX_LD-2012301": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Niagara_Falls",
+                0.42
+            ],
+            [
+                "http://dbpedia.org/resource/Niagara_Falls,_Ontario",
+                0.19142857142857142
+            ],
+            [
+                "http://dbpedia.org/resource/Niagara_Falls,_New_York",
+                0.15428571428571428
+            ]
+        ]
+    },
+    "INEX_LD-2012303": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/San_Joaquin_County,_California",
+                0.12880952380952382
+            ]
+        ]
+    },
+    "INEX_LD-2012305": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/North_Dakota",
+                0.5282653061224489
+            ]
+        ]
+    },
+    "INEX_LD-2012307": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Millard_Fillmore",
+                0.39119047619047626
+            ],
+            [
+                "http://dbpedia.org/resource/Following",
+                0.13714285714285715
+            ]
+        ]
+    },
+    "INEX_LD-2012309": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Malay_Peninsula",
+                0.3842857142857143
+            ]
+        ]
+    },
+    "INEX_LD-2012311": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Lennon",
+                0.6256037414965986
+            ],
+            [
+                "http://dbpedia.org/resource/Yoko_Ono",
+                0.40221088435374147
+            ]
+        ]
+    },
+    "INEX_LD-2012313": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Turturro",
+                0.7909523809523811
+            ]
+        ]
+    },
+    "INEX_LD-2012315": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Quezon_City",
+                0.4658571428571429
+            ],
+            [
+                "http://dbpedia.org/resource/Baguio",
+                0.38285714285714284
+            ],
+            [
+                "http://dbpedia.org/resource/Manila",
+                0.12857142857142856
+            ]
+        ]
+    },
+    "INEX_LD-2012317": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sons_and_Lovers",
+                0.2757142857142857
+            ]
+        ]
+    },
+    "INEX_LD-2012318": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Plan_9_from_Bell_Labs",
+                0.19857142857142857
+            ],
+            [
+                "http://dbpedia.org/resource/Outer_Banks",
+                0.12285714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Plan_9_from_Outer_Space",
+                0.11
+            ]
+        ]
+    },
+    "INEX_LD-2012319": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Alice_Munro",
+                0.45371428571428574
+            ]
+        ]
+    },
+    "INEX_LD-2012321": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Stamford_Raffles",
+                0.6563265306122449
+            ]
+        ]
+    },
+    "INEX_LD-2012323": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hofsj\u00f6kull",
+                0.6014285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Langj\u00f6kull",
+                0.5785714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Vatnaj\u00f6kull",
+                0.5542857142857143
+            ]
+        ]
+    },
+    "INEX_LD-2012325": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/James_G._Blaine",
+                0.6706428571428571
+            ]
+        ]
+    },
+    "INEX_LD-2012327": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nobel_Prize",
+                0.40395238095238095
+            ]
+        ]
+    },
+    "INEX_LD-2012329": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Iceland",
+                0.4739285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Sweden",
+                0.31607142857142856
+            ]
+        ]
+    },
+    "INEX_LD-2012331": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Seoul",
+                0.3655714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/China",
+                0.21714285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Korea",
+                0.13714285714285715
+            ]
+        ]
+    },
+    "INEX_LD-2012333": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Wilfrid_Laurier",
+                0.3379761904761905
+            ],
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.19428571428571428
+            ],
+            [
+                "http://dbpedia.org/resource/Prime_Minister_(rapper)",
+                0.15
+            ]
+        ]
+    },
+    "INEX_LD-2012335": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Japan",
+                0.2885714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.11271428571428573
+            ]
+        ]
+    },
+    "INEX_LD-2012336": {
+        "entities": []
+    },
+    "INEX_LD-2012337": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Baylor_University",
+                0.4542857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/Texas",
+                0.32571428571428573
+            ]
+        ]
+    },
+    "INEX_LD-2012339": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nelson_Mandela",
+                0.6178537414965987
+            ],
+            [
+                "http://dbpedia.org/resource/John_Langalibalele_Dube",
+                0.35428571428571426
+            ]
+        ]
+    },
+    "INEX_LD-2012341": {
+        "entities": []
+    },
+    "INEX_LD-2012343": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Heart_of_a_Woman",
+                0.7155952380952381
+            ]
+        ]
+    },
+    "INEX_LD-2012345": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Texas",
+                0.2542857142857143
+            ]
+        ]
+    },
+    "INEX_LD-2012347": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Florida",
+                0.17285714285714285
+            ],
+            [
+                "http://dbpedia.org/resource/Miami-Dade_County,_Florida",
+                0.16857142857142857
+            ]
+        ]
+    },
+    "INEX_LD-2012349": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Alexander_Nevsky",
+                0.39895238095238095
+            ],
+            [
+                "http://dbpedia.org/resource/Bulgaria",
+                0.10071428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/Alexander_Nevsky_Cathedral,_Tallinn",
+                0.14285714285714285
+            ],
+            [
+                "http://dbpedia.org/resource/Alexander_Nevsky_Cathedral,_Sofia",
+                0.13107142857142856
+            ]
+        ]
+    },
+    "INEX_LD-2012351": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/India",
+                0.10690476190476192
+            ]
+        ]
+    },
+    "INEX_LD-2012353": {
+        "entities": []
+    },
+    "INEX_LD-2012354": {
+        "entities": []
+    },
+    "INEX_LD-2012355": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/England_national_football_team",
+                0.21357142857142858
+            ]
+        ]
+    },
+    "INEX_LD-2012357": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bolshoi_Theatre",
+                0.6707142857142857
+            ],
+            [
+                "http://dbpedia.org/resource/Principal_dancer",
+                0.32285714285714284
+            ]
+        ]
+    },
+    "INEX_LD-2012359": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bob_Ricker",
+                0.3
+            ]
+        ]
+    },
+    "INEX_LD-2012361": {
+        "entities": []
+    },
+    "INEX_LD-2012363": {
+        "entities": []
+    },
+    "INEX_LD-2012365": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology",
+                0.28035714285714286
+            ]
+        ]
+    },
+    "INEX_LD-2012367": {
+        "entities": []
+    },
+    "INEX_LD-2012369": {
+        "entities": []
+    },
+    "INEX_LD-2012371": {
+        "entities": []
+    },
+    "INEX_LD-2012372": {
+        "entities": []
+    },
+    "INEX_LD-2012373": {
+        "entities": []
+    },
+    "INEX_LD-2012375": {
+        "entities": []
+    },
+    "INEX_LD-2012377": {
+        "entities": []
+    },
+    "INEX_LD-2012381": {
+        "entities": []
+    },
+    "INEX_LD-2012383": {
+        "entities": []
+    },
+    "INEX_LD-2012385": {
+        "entities": []
+    },
+    "INEX_LD-2012387": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Myitsone_Dam",
+                0.2957142857142857
+            ]
+        ]
+    },
+    "INEX_LD-2012389": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Indian_Ocean",
+                0.6227619047619048
+            ]
+        ]
+    },
+    "INEX_LD-2012390": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/National_League",
+                0.23192857142857143
+            ]
+        ]
+    },
+    "INEX_XER-100": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Steve_Jobs",
+                0.49423809523809525
+            ]
+        ]
+    },
+    "INEX_XER-106": {
+        "entities": []
+    },
+    "INEX_XER-108": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.47104761904761905
+            ]
+        ]
+    },
+    "INEX_XER-109": {
+        "entities": []
+    },
+    "INEX_XER-110": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nobel_Prize",
+                0.4046666666666666
+            ],
+            [
+                "http://dbpedia.org/resource/Winners",
+                0.10285714285714286
+            ]
+        ]
+    },
+    "INEX_XER-113": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Monaco_Grand_Prix",
+                0.7191428571428571
+            ]
+        ]
+    },
+    "INEX_XER-114": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Europe",
+                0.2525
+            ]
+        ]
+    },
+    "INEX_XER-115": {
+        "entities": []
+    },
+    "INEX_XER-116": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nobel_Prize",
+                0.5468367346938775
+            ]
+        ]
+    },
+    "INEX_XER-117": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Blues_Brothers",
+                0.33714285714285713
+            ],
+            [
+                "http://dbpedia.org/resource/The_Blues_Brothers_(film)",
+                0.15523809523809523
+            ]
+        ]
+    },
+    "INEX_XER-118": {
+        "entities": []
+    },
+    "INEX_XER-119": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cantons_of_Switzerland",
+                0.33285714285714285
+            ]
+        ]
+    },
+    "INEX_XER-121": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.30142857142857143
+            ]
+        ]
+    },
+    "INEX_XER-122": {
+        "entities": []
+    },
+    "INEX_XER-123": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/FIFA_World_Cup",
+                0.656904761904762
+            ]
+        ]
+    },
+    "INEX_XER-124": {
+        "entities": []
+    },
+    "INEX_XER-125": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/FIFA_World_Cup",
+                0.6511904761904762
+            ]
+        ]
+    },
+    "INEX_XER-126": {
+        "entities": []
+    },
+    "INEX_XER-127": {
+        "entities": []
+    },
+    "INEX_XER-128": {
+        "entities": []
+    },
+    "INEX_XER-129": {
+        "entities": []
+    },
+    "INEX_XER-130": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Star_Trek",
+                0.39657142857142863
+            ],
+            [
+                "http://dbpedia.org/resource/Star_Trek:_The_Original_Series",
+                0.1948979591836735
+            ],
+            [
+                "http://dbpedia.org/resource/Star_Trek:_The_Animated_Series",
+                0.14
+            ],
+            [
+                "http://dbpedia.org/resource/Star_Trek_(film)",
+                0.12571428571428572
+            ],
+            [
+                "http://dbpedia.org/resource/Star_Trek_Generations",
+                0.12571428571428572
+            ]
+        ]
+    },
+    "INEX_XER-132": {
+        "entities": []
+    },
+    "INEX_XER-133": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/European_Union",
+                0.1457142857142857
+            ]
+        ]
+    },
+    "INEX_XER-134": {
+        "entities": []
+    },
+    "INEX_XER-135": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Japan",
+                0.31
+            ]
+        ]
+    },
+    "INEX_XER-136": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Major_League_Baseball",
+                0.4634285714285714
+            ]
+        ]
+    },
+    "INEX_XER-138": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/East_Coast_of_the_United_States",
+                0.21285714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.15571428571428572
+            ],
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.11571428571428571
+            ]
+        ]
+    },
+    "INEX_XER-139": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Akira_Kurosawa",
+                0.61
+            ]
+        ]
+    },
+    "INEX_XER-140": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.25952380952380955
+            ]
+        ]
+    },
+    "INEX_XER-141": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Catalonia",
+                0.10571428571428572
+            ]
+        ]
+    },
+    "INEX_XER-143": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hanseatic_League",
+                0.6180000000000001
+            ],
+            [
+                "http://dbpedia.org/resource/Netherlands",
+                0.3171428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.16428571428571428
+            ]
+        ]
+    },
+    "INEX_XER-144": {
+        "entities": []
+    },
+    "INEX_XER-147": {
+        "entities": []
+    },
+    "INEX_XER-60": {
+        "entities": []
+    },
+    "INEX_XER-62": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Neil_Gaiman",
+                0.6369455782312925
+            ]
+        ]
+    },
+    "INEX_XER-63": {
+        "entities": []
+    },
+    "INEX_XER-64": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Alan_Moore",
+                0.6605000000000001
+            ]
+        ]
+    },
+    "INEX_XER-65": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Australia",
+                0.18285714285714286
+            ]
+        ]
+    },
+    "INEX_XER-67": {
+        "entities": []
+    },
+    "INEX_XER-72": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Venice",
+                0.12285714285714286
+            ]
+        ]
+    },
+    "INEX_XER-73": {
+        "entities": []
+    },
+    "INEX_XER-74": {
+        "entities": []
+    },
+    "INEX_XER-79": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Charles_Rennie_Mackintosh",
+                0.512
+            ]
+        ]
+    },
+    "INEX_XER-81": {
+        "entities": []
+    },
+    "INEX_XER-86": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_war",
+                0.15857142857142856
+            ]
+        ]
+    },
+    "INEX_XER-87": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_war",
+                0.13
+            ]
+        ]
+    },
+    "INEX_XER-88": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Republican_Party_(United_States)",
+                0.11214285714285714
+            ]
+        ]
+    },
+    "INEX_XER-91": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Paul_Auster",
+                0.837778911564626
+            ]
+        ]
+    },
+    "INEX_XER-94": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Europe",
+                0.2525
+            ]
+        ]
+    },
+    "INEX_XER-95": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tom_Hanks",
+                0.5064285714285715
+            ]
+        ]
+    },
+    "INEX_XER-96": {
+        "entities": []
+    },
+    "INEX_XER-97": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ian_Botham",
+                0.10714285714285714
+            ]
+        ]
+    },
+    "INEX_XER-98": {
+        "entities": []
+    },
+    "INEX_XER-99": {
+        "entities": []
+    },
+    "QALD2_te-1": {
+        "entities": []
+    },
+    "QALD2_te-100": {
+        "entities": []
+    },
+    "QALD2_te-11": {
+        "entities": []
+    },
+    "QALD2_te-12": {
+        "entities": []
+    },
+    "QALD2_te-13": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Premier_League",
+                0.6088095238095238
+            ]
+        ]
+    },
+    "QALD2_te-14": {
+        "entities": []
+    },
+    "QALD2_te-15": {
+        "entities": []
+    },
+    "QALD2_te-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.22404761904761905
+            ],
+            [
+                "http://dbpedia.org/resource/Los_Angeles",
+                0.19089285714285714
+            ]
+        ]
+    },
+    "QALD2_te-19": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Vienna",
+                0.33035714285714285
+            ]
+        ]
+    },
+    "QALD2_te-2": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_F._Kennedy",
+                0.5832074829931974
+            ]
+        ]
+    },
+    "QALD2_te-21": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ottawa",
+                0.3357142857142857
+            ]
+        ]
+    },
+    "QALD2_te-22": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Texas",
+                0.22285714285714286
+            ]
+        ]
+    },
+    "QALD2_te-24": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Elizabeth_II",
+                0.45047619047619053
+            ],
+            [
+                "http://dbpedia.org/resource/Elizabeth_I_of_England",
+                0.20285714285714285
+            ]
+        ]
+    },
+    "QALD2_te-25": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.21223809523809528
+            ]
+        ]
+    },
+    "QALD2_te-27": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sean_Parnell",
+                0.5570068027210884
+            ],
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.18285714285714286
+            ]
+        ]
+    },
+    "QALD2_te-28": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Francis_Ford_Coppola",
+                0.5481190476190477
+            ]
+        ]
+    },
+    "QALD2_te-29": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/William_Shatner",
+                0.45964285714285713
+            ]
+        ]
+    },
+    "QALD2_te-3": {
+        "entities": []
+    },
+    "QALD2_te-31": {
+        "entities": []
+    },
+    "QALD2_te-33": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/All-Australian_team",
+                0.24285714285714285
+            ]
+        ]
+    },
+    "QALD2_te-34": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/T._E._Lawrence",
+                0.21428571428571427
+            ],
+            [
+                "http://dbpedia.org/resource/Lawrence_of_Arabia_(film)",
+                0.10428571428571429
+            ]
+        ]
+    },
+    "QALD2_te-35": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Skype",
+                0.47
+            ]
+        ]
+    },
+    "QALD2_te-39": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Munich",
+                0.1957142857142857
+            ]
+        ]
+    },
+    "QALD2_te-40": {
+        "entities": []
+    },
+    "QALD2_te-41": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Intel",
+                0.30850000000000005
+            ]
+        ]
+    },
+    "QALD2_te-42": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Amanda_Palmer",
+                0.8449047619047619
+            ],
+            [
+                "http://dbpedia.org/resource/The_Husband",
+                0.21619047619047616
+            ]
+        ]
+    },
+    "QALD2_te-43": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Pope_Benedict_XVI",
+                0.25285714285714284
+            ]
+        ]
+    },
+    "QALD2_te-44": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Weser",
+                0.3028571428571429
+            ]
+        ]
+    },
+    "QALD2_te-45": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rhine",
+                0.34285714285714286
+            ]
+        ]
+    },
+    "QALD2_te-46": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philippines",
+                0.33904761904761904
+            ]
+        ]
+    },
+    "QALD2_te-48": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_Kingdom",
+                0.3881428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/Secret_Intelligence_Service",
+                0.3707142857142857
+            ]
+        ]
+    },
+    "QALD2_te-49": {
+        "entities": []
+    },
+    "QALD2_te-5": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Earth",
+                0.22428571428571428
+            ]
+        ]
+    },
+    "QALD2_te-51": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Frisian_Islands",
+                0.32085714285714284
+            ],
+            [
+                "http://dbpedia.org/resource/Netherlands",
+                0.30323809523809525
+            ]
+        ]
+    },
+    "QALD2_te-53": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Lisbon",
+                0.16190476190476188
+            ]
+        ]
+    },
+    "QALD2_te-55": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mount_Olympus",
+                0.33285714285714285
+            ],
+            [
+                "http://dbpedia.org/resource/Goddess",
+                0.20214285714285715
+            ]
+        ]
+    },
+    "QALD2_te-57": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Apollo",
+                0.2475578231292517
+            ]
+        ]
+    },
+    "QALD2_te-58": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Salt_Lake_City",
+                0.5950680272108844
+            ],
+            [
+                "http://dbpedia.org/resource/Salt_Lake_City_metropolitan_area",
+                0.14285714285714285
+            ]
+        ]
+    },
+    "QALD2_te-59": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.13857142857142857
+            ],
+            [
+                "http://dbpedia.org/resource/Utah",
+                0.10714285714285714
+            ]
+        ]
+    },
+    "QALD2_te-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sweden",
+                0.18571428571428572
+            ]
+        ]
+    },
+    "QALD2_te-60": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Denmark",
+                0.19714285714285715
+            ]
+        ]
+    },
+    "QALD2_te-63": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Argentina",
+                0.15821428571428572
+            ]
+        ]
+    },
+    "QALD2_te-64": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/NASA",
+                0.3623809523809524
+            ]
+        ]
+    },
+    "QALD2_te-65": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Lennon",
+                0.5162619047619047
+            ]
+        ]
+    },
+    "QALD2_te-66": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Benjamin_Franklin",
+                0.47285714285714286
+            ]
+        ]
+    },
+    "QALD2_te-67": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Juan_Carlos_I_of_Spain",
+                0.37857142857142856
+            ]
+        ]
+    },
+    "QALD2_te-72": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Area_51",
+                0.19809523809523807
+            ],
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.14285714285714285
+            ]
+        ]
+    },
+    "QALD2_te-75": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_Kingdom",
+                0.3255
+            ]
+        ]
+    },
+    "QALD2_te-76": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Margaret_Thatcher",
+                0.5377261904761903
+            ]
+        ]
+    },
+    "QALD2_te-77": {
+        "entities": []
+    },
+    "QALD2_te-8": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Himalayas",
+                0.2671428571428571
+            ]
+        ]
+    },
+    "QALD2_te-80": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/William_Goldman",
+                0.42714285714285716
+            ]
+        ]
+    },
+    "QALD2_te-81": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Viking_Press",
+                0.45
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_Kerouac",
+                0.35380952380952385
+            ]
+        ]
+    },
+    "QALD2_te-82": {
+        "entities": []
+    },
+    "QALD2_te-84": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Captain_America",
+                0.4933333333333334
+            ],
+            [
+                "http://dbpedia.org/resource/The_Comic",
+                0.15857142857142856
+            ]
+        ]
+    },
+    "QALD2_te-86": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Australia",
+                0.24
+            ]
+        ]
+    },
+    "QALD2_te-87": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Harold_and_Maude",
+                0.40047619047619054
+            ]
+        ]
+    },
+    "QALD2_te-88": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Clint_Eastwood",
+                0.507295918367347
+            ]
+        ]
+    },
+    "QALD2_te-89": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Juliana_of_the_Netherlands",
+                0.5342857142857143
+            ]
+        ]
+    },
+    "QALD2_te-9": {
+        "entities": []
+    },
+    "QALD2_te-90": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Spain",
+                0.26285714285714284
+            ],
+            [
+                "http://dbpedia.org/resource/Prime_Minister_(rapper)",
+                0.15
+            ]
+        ]
+    },
+    "QALD2_te-91": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.2112857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/Minnesota",
+                0.10857142857142857
+            ]
+        ]
+    },
+    "QALD2_te-92": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bruce_Springsteen",
+                0.4627142857142857
+            ]
+        ]
+    },
+    "QALD2_te-93": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sam_Raimi",
+                0.44273809523809526
+            ],
+            [
+                "http://dbpedia.org/resource/Army_of_Darkness",
+                0.24428571428571427
+            ]
+        ]
+    },
+    "QALD2_te-95": {
+        "entities": []
+    },
+    "QALD2_te-97": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sea_of_Galilee",
+                0.5828571428571429
+            ]
+        ]
+    },
+    "QALD2_te-98": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Miffy",
+                0.2961904761904762
+            ]
+        ]
+    },
+    "QALD2_te-99": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Elvis_Presley",
+                0.11
+            ]
+        ]
+    },
+    "QALD2_tr-1": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Russia",
+                0.11982142857142856
+            ]
+        ]
+    },
+    "QALD2_tr-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nile",
+                0.2498095238095238
+            ]
+        ]
+    },
+    "QALD2_tr-11": {
+        "entities": []
+    },
+    "QALD2_tr-13": {
+        "entities": []
+    },
+    "QALD2_tr-15": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Goofy",
+                0.37
+            ]
+        ]
+    },
+    "QALD2_tr-16": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Africa",
+                0.35
+            ]
+        ]
+    },
+    "QALD2_tr-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_Jersey",
+                0.34535714285714286
+            ]
+        ]
+    },
+    "QALD2_tr-18": {
+        "entities": []
+    },
+    "QALD2_tr-21": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Illinois",
+                0.24571428571428572
+            ]
+        ]
+    },
+    "QALD2_tr-22": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Limerick_Lake",
+                0.45238095238095233
+            ]
+        ]
+    },
+    "QALD2_tr-23": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Walt_Disney",
+                0.4697619047619047
+            ],
+            [
+                "http://dbpedia.org/resource/Created_By",
+                0.12
+            ],
+            [
+                "http://dbpedia.org/resource/The_Walt_Disney_Company",
+                0.15285714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Walt_Disney_anthology_television_series",
+                0.12857142857142856
+            ],
+            [
+                "http://dbpedia.org/resource/Walt_Disney_World",
+                0.11285714285714285
+            ]
+        ]
+    },
+    "QALD2_tr-24": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Annapurna",
+                0.5291496598639456
+            ]
+        ]
+    },
+    "QALD2_tr-25": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Julia_Roberts",
+                0.645
+            ],
+            [
+                "http://dbpedia.org/resource/Garry_Marshall",
+                0.42714285714285716
+            ]
+        ]
+    },
+    "QALD2_tr-26": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Manhattan_Bridge",
+                0.5071428571428571
+            ]
+        ]
+    },
+    "QALD2_tr-28": {
+        "entities": []
+    },
+    "QALD2_tr-29": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/WikiLeaks",
+                0.30857142857142855
+            ]
+        ]
+    },
+    "QALD2_tr-3": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bill_Clinton",
+                0.5394761904761904
+            ]
+        ]
+    },
+    "QALD2_tr-30": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.3357142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-31": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Czech_Republic",
+                0.5328571428571428
+            ]
+        ]
+    },
+    "QALD2_tr-32": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/European_Union",
+                0.4235714285714286
+            ]
+        ]
+    },
+    "QALD2_tr-34": {
+        "entities": []
+    },
+    "QALD2_tr-35": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Universal_Studios",
+                0.40285714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/The_Owner",
+                0.25857142857142856
+            ]
+        ]
+    },
+    "QALD2_tr-36": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Yenisei_River",
+                0.6307142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-38": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_Kingdom",
+                0.4257142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge",
+                0.4975238095238095
+            ]
+        ]
+    },
+    "QALD2_tr-40": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Australia",
+                0.27714285714285714
+            ]
+        ]
+    },
+    "QALD2_tr-41": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Spain",
+                0.1869047619047619
+            ]
+        ]
+    },
+    "QALD2_tr-42": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philippines",
+                0.3708571428571429
+            ]
+        ]
+    },
+    "QALD2_tr-43": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_York_City",
+                0.5184523809523809
+            ]
+        ]
+    },
+    "QALD2_tr-44": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge",
+                0.8042142857142858
+            ],
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge_\u2013_City_Hall_/_Chambers_Street_(New_York_City_Subway)",
+                0.10714285714285714
+            ]
+        ]
+    },
+    "QALD2_tr-45": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Belgium",
+                0.27071428571428574
+            ]
+        ]
+    },
+    "QALD2_tr-47": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Karakoram",
+                0.43942857142857145
+            ]
+        ]
+    },
+    "QALD2_tr-49": {
+        "entities": []
+    },
+    "QALD2_tr-50": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bruce_Carver",
+                0.3707380952380952
+            ]
+        ]
+    },
+    "QALD2_tr-51": {
+        "entities": []
+    },
+    "QALD2_tr-52": {
+        "entities": []
+    },
+    "QALD2_tr-53": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.4257142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-54": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Abraham_Lincoln",
+                0.17
+            ],
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.1457142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-55": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_of_Warcraft",
+                0.5188095238095238
+            ],
+            [
+                "http://dbpedia.org/resource/The_Video_Game_(game_show)",
+                0.11357142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-57": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Sopranos",
+                0.5021428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/HBO",
+                0.322
+            ]
+        ]
+    },
+    "QALD2_tr-58": {
+        "entities": []
+    },
+    "QALD2_tr-59": {
+        "entities": []
+    },
+    "QALD2_tr-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Abraham_Lincoln",
+                0.3157142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-61": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nanga_Parbat",
+                0.6826190476190477
+            ]
+        ]
+    },
+    "QALD2_tr-62": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Wikipedia",
+                0.1873809523809524
+            ]
+        ]
+    },
+    "QALD2_tr-63": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Batman_Begins",
+                0.48142857142857143
+            ]
+        ]
+    },
+    "QALD2_tr-64": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/California",
+                0.2494285714285714
+            ]
+        ]
+    },
+    "QALD2_tr-65": {
+        "entities": []
+    },
+    "QALD2_tr-68": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Germany",
+                0.16857142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-69": {
+        "entities": []
+    },
+    "QALD2_tr-70": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hal_Roach",
+                0.47959523809523813
+            ]
+        ]
+    },
+    "QALD2_tr-71": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mean_Hamster_Software",
+                0.47285714285714286
+            ]
+        ]
+    },
+    "QALD2_tr-72": {
+        "entities": []
+    },
+    "QALD2_tr-73": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Aldi",
+                0.5589047619047619
+            ]
+        ]
+    },
+    "QALD2_tr-74": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Europe",
+                0.4010714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Summer_Olympic_Games",
+                0.36
+            ]
+        ]
+    },
+    "QALD2_tr-75": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.38
+            ]
+        ]
+    },
+    "QALD2_tr-77": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Christmas",
+                0.10142857142857142
+            ]
+        ]
+    },
+    "QALD2_tr-78": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Danielle_Steel",
+                0.5797619047619047
+            ],
+            [
+                "http://dbpedia.org/resource/Written_By",
+                0.11142857142857143
+            ]
+        ]
+    },
+    "QALD2_tr-79": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.2885714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/California",
+                0.22714285714285715
+            ]
+        ]
+    },
+    "QALD2_tr-8": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/States_of_Germany",
+                0.3792857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+                0.21636054421768708
+            ]
+        ]
+    },
+    "QALD2_tr-80": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.20214285714285715
+            ]
+        ]
+    },
+    "QALD2_tr-81": {
+        "entities": []
+    },
+    "QALD2_tr-82": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/GIMP",
+                0.743045112781955
+            ]
+        ]
+    },
+    "QALD2_tr-83": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Natalie_Portman",
+                0.48714285714285716
+            ]
+        ]
+    },
+    "QALD2_tr-84": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Tom_Cruise",
+                0.4657142857142857
+            ]
+        ]
+    },
+    "QALD2_tr-85": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Julia_Roberts",
+                0.6802380952380952
+            ],
+            [
+                "http://dbpedia.org/resource/Richard_Gere",
+                0.5510714285714285
+            ]
+        ]
+    },
+    "QALD2_tr-86": {
+        "entities": []
+    },
+    "QALD2_tr-87": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Earth",
+                0.4367857142857143
+            ]
+        ]
+    },
+    "QALD2_tr-89": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Premier_League",
+                0.5739523809523809
+            ]
+        ]
+    },
+    "QALD2_tr-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.12414285714285715
+            ]
+        ]
+    },
+    "QALD2_tr-91": {
+        "entities": []
+    },
+    "QALD2_tr-92": {
+        "entities": []
+    },
+    "SemSearch_ES-1": {
+        "entities": []
+    },
+    "SemSearch_ES-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/North_Carolina",
+                0.4615952380952381
+            ],
+            [
+                "http://dbpedia.org/resource/Asheville,_North_Carolina",
+                0.19387755102040818
+            ]
+        ]
+    },
+    "SemSearch_ES-100": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/YMCA",
+                0.8339455782312925
+            ],
+            [
+                "http://dbpedia.org/resource/Tampa,_Florida",
+                0.2345952380952381
+            ]
+        ]
+    },
+    "SemSearch_ES-101": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ashley_Wagner",
+                0.9757142857142858
+            ]
+        ]
+    },
+    "SemSearch_ES-102": {
+        "entities": []
+    },
+    "SemSearch_ES-104": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bourbonnais,_Illinois",
+                0.6208095238095238
+            ]
+        ]
+    },
+    "SemSearch_ES-106": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Chase_Masterson",
+                0.9072857142857144
+            ]
+        ]
+    },
+    "SemSearch_ES-107": {
+        "entities": []
+    },
+    "SemSearch_ES-108": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Danielia_Cotton",
+                0.7164761904761904
+            ]
+        ]
+    },
+    "SemSearch_ES-109": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/David_Hewlett",
+                0.9942857142857143
+            ]
+        ]
+    },
+    "SemSearch_ES-11": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Austin_Powers_(film_series)",
+                0.3228095238095238
+            ],
+            [
+                "http://dbpedia.org/resource/Austin_Powers:_International_Man_of_Mystery",
+                0.26333333333333336
+            ],
+            [
+                "http://dbpedia.org/resource/Austin_Powers_in_Goldmember",
+                0.24785714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Austin_Powers:_The_Spy_Who_Shagged_Me",
+                0.215
+            ],
+            [
+                "http://dbpedia.org/resource/Austin_Powers_(character)",
+                0.21428571428571427
+            ]
+        ]
+    },
+    "SemSearch_ES-111": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Eagle_Rock,_Los_Angeles",
+                0.26857142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-114": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Glenn_Frey",
+                1.0
+            ]
+        ]
+    },
+    "SemSearch_ES-115": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Michigan",
+                0.3368095238095238
+            ],
+            [
+                "http://dbpedia.org/resource/Goodwill_Industries",
+                0.30380952380952386
+            ]
+        ]
+    },
+    "SemSearch_ES-118": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Iowa_Energy",
+                0.7898809523809525
+            ]
+        ]
+    },
+    "SemSearch_ES-119": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_S._Elliott",
+                0.21142857142857144
+            ],
+            [
+                "http://dbpedia.org/resource/John_Elliott_(historian)",
+                0.16178571428571428
+            ],
+            [
+                "http://dbpedia.org/resource/John_Elliott_(businessman)",
+                0.16
+            ],
+            [
+                "http://dbpedia.org/resource/John_Elliott_(boxer)",
+                0.1523809523809524
+            ],
+            [
+                "http://dbpedia.org/resource/John_Elliott_(cricketer)",
+                0.13428571428571429
+            ]
+        ]
+    },
+    "SemSearch_ES-12": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Austin,_Texas",
+                0.684047619047619
+            ]
+        ]
+    },
+    "SemSearch_ES-120": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/General_Hospital",
+                0.8416764705882354
+            ]
+        ]
+    },
+    "SemSearch_ES-123": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Michael_E._Zimmerman",
+                0.38035714285714284
+            ],
+            [
+                "http://dbpedia.org/resource/Michael_Zimmerman_(jurist)",
+                0.22142857142857142
+            ],
+            [
+                "http://dbpedia.org/resource/Michael_Zimmerman_(biologist)",
+                0.10857142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-124": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Motorola",
+                0.39809523809523806
+            ]
+        ]
+    },
+    "SemSearch_ES-125": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nokia_E72",
+                0.9623809523809523
+            ]
+        ]
+    },
+    "SemSearch_ES-127": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Palm_(PDA)",
+                0.26857142857142857
+            ],
+            [
+                "http://dbpedia.org/resource/Palm,_Inc.",
+                0.14
+            ]
+        ]
+    },
+    "SemSearch_ES-128": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philadelphia",
+                0.47714285714285715
+            ]
+        ]
+    },
+    "SemSearch_ES-129": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Detroit",
+                0.32083333333333336
+            ]
+        ]
+    },
+    "SemSearch_ES-13": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Paper",
+                0.49559523809523814
+            ]
+        ]
+    },
+    "SemSearch_ES-130": {
+        "entities": []
+    },
+    "SemSearch_ES-131": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/San_Diego",
+                0.6632380952380952
+            ],
+            [
+                "http://dbpedia.org/resource/School_for_Creative_and_Performing_Arts",
+                0.5171428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/San_Diego_County,_California",
+                0.17142857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/San_Diego_School_of_Creative_and_Performing_Arts",
+                0.15428571428571428
+            ],
+            [
+                "http://dbpedia.org/resource/San_Diego_Unified_School_District",
+                0.1197142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-132": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mattress",
+                0.5714285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Sealy,_Texas",
+                0.21214285714285713
+            ],
+            [
+                "http://dbpedia.org/resource/Sealy_Corporation",
+                0.10714285714285714
+            ]
+        ]
+    },
+    "SemSearch_ES-135": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.10276190476190476
+            ]
+        ]
+    },
+    "SemSearch_ES-136": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sri_Lanka",
+                0.3916666666666666
+            ]
+        ]
+    },
+    "SemSearch_ES-137": {
+        "entities": []
+    },
+    "SemSearch_ES-139": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Big_Texan_Steak_Ranch",
+                0.6995238095238095
+            ]
+        ]
+    },
+    "SemSearch_ES-14": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Benjamin_Franklin",
+                0.538142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-141": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ventura_County,_California",
+                0.3557142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-15": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/BMO_Harris_Bradley_Center",
+                0.7919999999999999
+            ]
+        ]
+    },
+    "SemSearch_ES-16": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge",
+                0.9797619047619046
+            ],
+            [
+                "http://dbpedia.org/resource/Brooklyn_Bridge_\u2013_City_Hall_/_Chambers_Street_(New_York_City_Subway)",
+                0.2914285714285714
+            ]
+        ]
+    },
+    "SemSearch_ES-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Butte,_Montana",
+                0.7054285714285714
+            ]
+        ]
+    },
+    "SemSearch_ES-18": {
+        "entities": []
+    },
+    "SemSearch_ES-19": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Carl_Lewis",
+                0.9871428571428571
+            ]
+        ]
+    },
+    "SemSearch_ES-2": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/B._F._Skinner",
+                0.7448809523809523
+            ]
+        ]
+    },
+    "SemSearch_ES-20": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/North_Carolina",
+                0.28714285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Carolina_Panthers",
+                0.23714285714285716
+            ]
+        ]
+    },
+    "SemSearch_ES-21": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Charles_Darwin",
+                0.6545238095238096
+            ],
+            [
+                "http://dbpedia.org/resource/Charles_Darwin_(aviator)",
+                0.13285714285714287
+            ]
+        ]
+    },
+    "SemSearch_ES-22": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+                0.5230952380952382
+            ]
+        ]
+    },
+    "SemSearch_ES-23": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Virginia_Beach,_Virginia",
+                0.5351190476190477
+            ]
+        ]
+    },
+    "SemSearch_ES-24": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Coastal_Carolina_University",
+                0.7491666666666666
+            ]
+        ]
+    },
+    "SemSearch_ES-25": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/David_Suchet",
+                0.7092857142857143
+            ]
+        ]
+    },
+    "SemSearch_ES-26": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Walt_Disney_World",
+                0.32
+            ]
+        ]
+    },
+    "SemSearch_ES-28": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/El_Salvador",
+                0.6825476190476191
+            ],
+            [
+                "http://dbpedia.org/resource/Pichilemu",
+                0.36857142857142855
+            ],
+            [
+                "http://dbpedia.org/resource/El_Salvador_national_football_team",
+                0.21285714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/El_Salvador_women's_national_football_team",
+                0.10857142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-29": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_York_Institute_of_Technology",
+                0.6285714285714286
+            ]
+        ]
+    },
+    "SemSearch_ES-3": {
+        "entities": []
+    },
+    "SemSearch_ES-30": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/E-Loan",
+                0.6678571428571428
+            ]
+        ]
+    },
+    "SemSearch_ES-31": {
+        "entities": []
+    },
+    "SemSearch_ES-32": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Chambersburg,_Pennsylvania",
+                0.35928571428571426
+            ]
+        ]
+    },
+    "SemSearch_ES-33": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Harry_Potter_(film_series)",
+                0.4878571428571429
+            ],
+            [
+                "http://dbpedia.org/resource/Harry_Potter_(character)",
+                0.27
+            ]
+        ]
+    },
+    "SemSearch_ES-34": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Harry_Potter_(film_series)",
+                0.5660000000000001
+            ]
+        ]
+    },
+    "SemSearch_ES-36": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Batman_Returns",
+                0.7368877551020407
+            ],
+            [
+                "http://dbpedia.org/resource/Internet_Movie_Database",
+                0.22428571428571428
+            ],
+            [
+                "http://dbpedia.org/resource/Batman_Returns_(video_game)",
+                0.16428571428571428
+            ]
+        ]
+    },
+    "SemSearch_ES-37": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Jack_Johnson_(boxer)",
+                0.28785714285714287
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_Johnson_(musician)",
+                0.2825
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_Johnson_(ice_hockey)",
+                0.1895238095238095
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_Johnson_(Canadian_politician)",
+                0.11571428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_Johnson_(actor)",
+                0.11
+            ]
+        ]
+    },
+    "SemSearch_ES-38": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Jack_the_Ripper",
+                0.6004761904761905
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_the_Ripper:_The_Final_Solution",
+                0.29916666666666664
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_the_Ripper_(1988_TV_series)",
+                0.19285714285714287
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_the_Ripper_(1987_video_game)",
+                0.11285714285714285
+            ],
+            [
+                "http://dbpedia.org/resource/Jack_the_Ripper_(1973_TV_series)",
+                0.10285714285714286
+            ]
+        ]
+    },
+    "SemSearch_ES-39": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/James_Caldwell_High_School",
+                0.9061904761904762
+            ]
+        ]
+    },
+    "SemSearch_ES-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/NAACP_Image_Award",
+                0.6906190476190476
+            ]
+        ]
+    },
+    "SemSearch_ES-40": {
+        "entities": []
+    },
+    "SemSearch_ES-41": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Joan_of_Arc",
+                0.43659523809523804
+            ],
+            [
+                "http://dbpedia.org/resource/Joan_of_Arc_(band)",
+                0.22285714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Joan_of_Arc_(1948_film)",
+                0.21714285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/The_Passion_of_Joan_of_Arc",
+                0.17
+            ],
+            [
+                "http://dbpedia.org/resource/The_Messenger:_The_Story_of_Joan_of_Arc",
+                0.16476190476190475
+            ]
+        ]
+    },
+    "SemSearch_ES-42": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_C._Maxwell",
+                0.5721428571428572
+            ],
+            [
+                "http://dbpedia.org/resource/City_Point,_Virginia",
+                0.14142857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/John_Maxwell_(British_Army_officer)",
+                0.10285714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/John_Maxwell_(golfer)",
+                0.1
+            ]
+        ]
+    },
+    "SemSearch_ES-45": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Keith_Urban",
+                0.8239523809523809
+            ]
+        ]
+    },
+    "SemSearch_ES-47": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/King_Arthur",
+                0.6706428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/King_Arthur_(film)",
+                0.1957142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-49": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Laura_Bush",
+                0.979047619047619
+            ]
+        ]
+    },
+    "SemSearch_ES-5": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Scott_County,_Minnesota",
+                0.25607142857142856
+            ],
+            [
+                "http://dbpedia.org/resource/Scott_County,_Iowa",
+                0.2057142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-50": {
+        "entities": []
+    },
+    "SemSearch_ES-52": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Lincoln_Park",
+                0.6721428571428569
+            ],
+            [
+                "http://dbpedia.org/resource/Lincoln_Park,_Chicago",
+                0.26571428571428574
+            ],
+            [
+                "http://dbpedia.org/resource/West_Side,_Jersey_City",
+                0.1657142857142857
+            ],
+            [
+                "http://dbpedia.org/resource/Lincoln_Park,_New_Jersey",
+                0.12714285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Lincoln_Park_Zoo",
+                0.10285714285714286
+            ]
+        ]
+    },
+    "SemSearch_ES-53": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Virginia",
+                0.36857142857142855
+            ],
+            [
+                "http://dbpedia.org/resource/Lynchburg,_Virginia",
+                0.22416666666666668
+            ]
+        ]
+    },
+    "SemSearch_ES-54": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Marc_Anthony",
+                0.99
+            ],
+            [
+                "http://dbpedia.org/resource/Marc_Anthony_(footballer)",
+                0.15428571428571428
+            ]
+        ]
+    },
+    "SemSearch_ES-56": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mario_Bros.",
+                0.8748061224489795
+            ]
+        ]
+    },
+    "SemSearch_ES-57": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Martin_Luther_King,_Jr.",
+                0.5466666666666666
+            ],
+            [
+                "http://dbpedia.org/resource/Martin_Luther_King,_Jr._Day",
+                0.3125
+            ],
+            [
+                "http://dbpedia.org/resource/Martin_Luther_King,_Sr.",
+                0.2885714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Martin_Luther_King_III",
+                0.27
+            ]
+        ]
+    },
+    "SemSearch_ES-58": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ohio",
+                0.16357142857142856
+            ]
+        ]
+    },
+    "SemSearch_ES-59": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Des_Moines,_Iowa",
+                0.4342857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/Iowa",
+                0.12857142857142856
+            ],
+            [
+                "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+                0.11
+            ]
+        ]
+    },
+    "SemSearch_ES-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Air_Wisconsin",
+                0.7778571428571428
+            ]
+        ]
+    },
+    "SemSearch_ES-60": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Michael_Douglas",
+                0.9921428571428571
+            ]
+        ]
+    },
+    "SemSearch_ES-61": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Fantasy_Island",
+                0.31
+            ],
+            [
+                "http://dbpedia.org/resource/Mickey_Rourke",
+                0.20857142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-63": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Old_Winchester_Hill",
+                0.16166666666666665
+            ]
+        ]
+    },
+    "SemSearch_ES-65": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Orlando,_Florida",
+                0.6879931972789115
+            ]
+        ]
+    },
+    "SemSearch_ES-66": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Overeaters_Anonymous",
+                0.6652380952380953
+            ]
+        ]
+    },
+    "SemSearch_ES-67": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/OVGuide",
+                0.8357142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-68": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Pierce_County,_Washington",
+                0.3142857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/Washington,_D.C.",
+                0.1220238095238095
+            ]
+        ]
+    },
+    "SemSearch_ES-7": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Glock",
+                0.5028134088134087
+            ]
+        ]
+    },
+    "SemSearch_ES-70": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Radio_Italia_Solo_Musica_Italiana",
+                0.1357142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-71": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Richmond,_Virginia",
+                0.6896598639455781
+            ]
+        ]
+    },
+    "SemSearch_ES-72": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/WEGR",
+                0.4496428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/Memphis,_Tennessee",
+                0.12571428571428572
+            ]
+        ]
+    },
+    "SemSearch_ES-73": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Rowan_University",
+                0.9033571428571429
+            ]
+        ]
+    },
+    "SemSearch_ES-74": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sacred_Heart_University",
+                0.185
+            ]
+        ]
+    },
+    "SemSearch_ES-75": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sagemont_School",
+                0.5585714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Houston",
+                0.29
+            ]
+        ]
+    },
+    "SemSearch_ES-76": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/San_Antonio",
+                0.6306428571428572
+            ]
+        ]
+    },
+    "SemSearch_ES-77": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Savannah_Technical_College",
+                0.43
+            ]
+        ]
+    },
+    "SemSearch_ES-78": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sharp_Corporation",
+                0.19785714285714287
+            ]
+        ]
+    },
+    "SemSearch_ES-79": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Shobana",
+                0.49233333333333335
+            ]
+        ]
+    },
+    "SemSearch_ES-80": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Sonny_&_Cher",
+                0.6457142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-81": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/South_Dakota",
+                0.7053061224489796
+            ],
+            [
+                "http://dbpedia.org/resource/Dakota_State_University",
+                0.6323809523809524
+            ],
+            [
+                "http://dbpedia.org/resource/South_Dakota_State_University",
+                0.14142857142857143
+            ]
+        ]
+    },
+    "SemSearch_ES-82": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Saint_Lucia",
+                0.3985714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/St_Lucia,_Queensland",
+                0.24761904761904763
+            ],
+            [
+                "http://dbpedia.org/resource/St_Lucia,_KwaZulu-Natal",
+                0.22857142857142856
+            ]
+        ]
+    },
+    "SemSearch_ES-83": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Paul_the_Apostle",
+                0.4313497732426304
+            ]
+        ]
+    },
+    "SemSearch_ES-84": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Danielle_Fishel",
+                0.787142857142857
+            ],
+            [
+                "http://dbpedia.org/resource/The_Dish",
+                0.29285714285714287
+            ],
+            [
+                "http://dbpedia.org/resource/The_Dish_(TV_series)",
+                0.15714285714285714
+            ]
+        ]
+    },
+    "SemSearch_ES-85": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Longest_Yard_(2005_film)",
+                0.18476190476190474
+            ]
+        ]
+    },
+    "SemSearch_ES-86": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Lehigh_Valley",
+                0.4094727891156463
+            ],
+            [
+                "http://dbpedia.org/resource/The_Morning_Call",
+                0.3539285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Penn_State_Lehigh_Valley",
+                0.11428571428571428
+            ]
+        ]
+    },
+    "SemSearch_ES-88": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Thomas_Jefferson",
+                0.7266666666666666
+            ],
+            [
+                "http://dbpedia.org/resource/Jefferson\u2013Hemings_controversy",
+                0.21238095238095242
+            ],
+            [
+                "http://dbpedia.org/resource/Thomas_Jefferson_(Caymanian_politician)",
+                0.11428571428571428
+            ]
+        ]
+    },
+    "SemSearch_ES-89": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/University_of_North_Dakota",
+                0.9946938775510203
+            ],
+            [
+                "http://dbpedia.org/resource/University_of_North_Dakota_School_of_Law",
+                0.21785714285714286
+            ]
+        ]
+    },
+    "SemSearch_ES-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nairobi",
+                0.4617857142857143
+            ]
+        ]
+    },
+    "SemSearch_ES-90": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/University_of_Phoenix",
+                0.8397619047619048
+            ]
+        ]
+    },
+    "SemSearch_ES-91": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Westminster_Abbey",
+                0.711857142857143
+            ],
+            [
+                "http://dbpedia.org/resource/Westminster_Abbey_(British_Columbia)",
+                0.11571428571428571
+            ],
+            [
+                "http://dbpedia.org/resource/Westminster_Abbey_Museum",
+                0.10285714285714286
+            ]
+        ]
+    },
+    "SemSearch_ES-93": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Toyota_Tundra",
+                0.7999761904761905
+            ]
+        ]
+    },
+    "SemSearch_ES-94": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Hugh_Downs",
+                0.9434523809523809
+            ]
+        ]
+    },
+    "SemSearch_ES-95": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Madrid",
+                0.8630952380952382
+            ],
+            [
+                "http://dbpedia.org/resource/Real_Madrid_C.F.",
+                0.10714285714285714
+            ]
+        ]
+    },
+    "SemSearch_ES-96": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_England_Coffee",
+                0.7657142857142857
+            ]
+        ]
+    },
+    "SemSearch_ES-97": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Pink_Panther_2",
+                0.8528571428571429
+            ]
+        ]
+    },
+    "SemSearch_ES-98": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/University_of_Texas_at_Austin",
+                0.7145952380952382
+            ]
+        ]
+    },
+    "SemSearch_ES-99": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/University_of_York",
+                0.7509285714285714
+            ]
+        ]
+    },
+    "SemSearch_LS-1": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Apollo",
+                0.2667380952380952
+            ]
+        ]
+    },
+    "SemSearch_LS-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nicole_Kidman",
+                0.5792619047619048
+            ]
+        ]
+    },
+    "SemSearch_LS-11": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Church_of_Ireland",
+                0.7676190476190475
+            ]
+        ]
+    },
+    "SemSearch_LS-12": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Columbia_University_Press",
+                0.10428571428571429
+            ]
+        ]
+    },
+    "SemSearch_LS-13": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/EPICS",
+                0.2820714285714286
+            ]
+        ]
+    },
+    "SemSearch_LS-14": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mount_Olympus",
+                0.38285714285714284
+            ]
+        ]
+    },
+    "SemSearch_LS-16": {
+        "entities": []
+    },
+    "SemSearch_LS-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Russia",
+                0.11904761904761905
+            ]
+        ]
+    },
+    "SemSearch_LS-18": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/John_Lennon",
+                0.6078860544217687
+            ],
+            [
+                "http://dbpedia.org/resource/Liverpool_John_Lennon_Airport",
+                0.1025
+            ]
+        ]
+    },
+    "SemSearch_LS-19": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Kenya",
+                0.19261904761904763
+            ]
+        ]
+    },
+    "SemSearch_LS-2": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Persian_Gulf",
+                0.6885714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Arab_League",
+                0.11428571428571428
+            ]
+        ]
+    },
+    "SemSearch_LS-20": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Kublai_Khan",
+                0.5875952380952382
+            ]
+        ]
+    },
+    "SemSearch_LS-21": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Lily_Allen",
+                0.3092857142857143
+            ]
+        ]
+    },
+    "SemSearch_LS-22": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States",
+                0.4024761904761905
+            ]
+        ]
+    },
+    "SemSearch_LS-24": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Matt_Berry",
+                0.6298401360544218
+            ]
+        ]
+    },
+    "SemSearch_LS-25": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/U2",
+                0.4185714285714286
+            ]
+        ]
+    },
+    "SemSearch_LS-26": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Erykah_Badu",
+                0.6972380952380952
+            ]
+        ]
+    },
+    "SemSearch_LS-29": {
+        "entities": []
+    },
+    "SemSearch_LS-3": {
+        "entities": []
+    },
+    "SemSearch_LS-30": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+                0.17653061224489797
+            ]
+        ]
+    },
+    "SemSearch_LS-31": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_Nations_Security_Council",
+                0.42214285714285715
+            ],
+            [
+                "http://dbpedia.org/resource/United_Nations",
+                0.29428571428571426
+            ]
+        ]
+    },
+    "SemSearch_LS-32": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Mount_Rushmore",
+                0.45321428571428574
+            ]
+        ]
+    },
+    "SemSearch_LS-33": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Canada",
+                0.4714285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/Province",
+                0.25392857142857145
+            ]
+        ]
+    },
+    "SemSearch_LS-34": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Ratt",
+                0.5661904761904761
+            ]
+        ]
+    },
+    "SemSearch_LS-35": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+                0.4685714285714286
+            ]
+        ]
+    },
+    "SemSearch_LS-36": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cuba",
+                0.3025714285714286
+            ]
+        ]
+    },
+    "SemSearch_LS-37": {
+        "entities": []
+    },
+    "SemSearch_LS-38": {
+        "entities": []
+    },
+    "SemSearch_LS-39": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Cyprus",
+                0.16314285714285712
+            ]
+        ]
+    },
+    "SemSearch_LS-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/World_war",
+                0.13
+            ]
+        ]
+    },
+    "SemSearch_LS-40": {
+        "entities": []
+    },
+    "SemSearch_LS-41": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim",
+                0.26142857142857145
+            ],
+            [
+                "http://dbpedia.org/resource/The_Prophet_(book)",
+                0.1825
+            ]
+        ]
+    },
+    "SemSearch_LS-42": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Israel",
+                0.31857142857142856
+            ]
+        ]
+    },
+    "SemSearch_LS-43": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Paul_the_Apostle",
+                0.40285714285714286
+            ]
+        ]
+    },
+    "SemSearch_LS-44": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Afghanistan",
+                0.35028571428571426
+            ]
+        ]
+    },
+    "SemSearch_LS-46": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bam_Margera_Presents:_Where_the_\u266f$&%25_Is_Santa%3F",
+                0.4614285714285714
+            ],
+            [
+                "http://dbpedia.org/resource/United_Kingdom",
+                0.24428571428571427
+            ]
+        ]
+    },
+    "SemSearch_LS-49": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Python_(programming_language)",
+                0.6287142857142857
+            ]
+        ]
+    },
+    "SemSearch_LS-5": {
+        "entities": []
+    },
+    "SemSearch_LS-50": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Ancient_World_(TV_series)",
+                0.2742857142857143
+            ]
+        ]
+    },
+    "SemSearch_LS-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/New_York_City",
+                0.5651292517006803
+            ]
+        ]
+    },
+    "SemSearch_LS-7": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/United_States_Armed_Forces",
+                0.3668571428571429
+            ]
+        ]
+    },
+    "SemSearch_LS-8": {
+        "entities": []
+    },
+    "SemSearch_LS-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Eastern_Orthodox_Church",
+                0.2257142857142857
+            ]
+        ]
+    },
+    "TREC_Entity-1": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/BlackBerry",
+                0.6085714285714285
+            ]
+        ]
+    },
+    "TREC_Entity-10": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Indiana_University",
+                0.3985714285714286
+            ],
+            [
+                "http://dbpedia.org/resource/Indiana_University_\u2013_Purdue_University_Indianapolis",
+                0.20714285714285716
+            ],
+            [
+                "http://dbpedia.org/resource/Indiana_University_Bloomington",
+                0.15178571428571427
+            ],
+            [
+                "http://dbpedia.org/resource/Indiana_University_of_Pennsylvania",
+                0.15142857142857144
+            ]
+        ]
+    },
+    "TREC_Entity-11": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/The_Home_Depot",
+                0.36714285714285716
+            ]
+        ]
+    },
+    "TREC_Entity-12": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Air_Canada",
+                0.39285714285714285
+            ]
+        ]
+    },
+    "TREC_Entity-14": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Bouchercon",
+                0.35654761904761906
+            ],
+            [
+                "http://dbpedia.org/resource/Anthony_Awards",
+                0.26285714285714284
+            ]
+        ]
+    },
+    "TREC_Entity-15": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Southeastern_Conference",
+                0.18714285714285714
+            ]
+        ]
+    },
+    "TREC_Entity-16": {
+        "entities": []
+    },
+    "TREC_Entity-17": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Food_Network",
+                0.6626666666666666
+            ],
+            [
+                "http://dbpedia.org/resource/Ze_Frank",
+                0.2357142857142857
+            ]
+        ]
+    },
+    "TREC_Entity-18": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Jefferson_Airplane",
+                0.6427142857142857
+            ],
+            [
+                "http://dbpedia.org/resource/The_Band",
+                0.10428571428571429
+            ]
+        ]
+    },
+    "TREC_Entity-19": {
+        "entities": []
+    },
+    "TREC_Entity-2": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Association_for_Computing_Machinery",
+                0.2357142857142857
+            ]
+        ]
+    },
+    "TREC_Entity-20": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Islay",
+                0.5662721088435373
+            ]
+        ]
+    },
+    "TREC_Entity-4": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Philadelphia",
+                0.2885714285714286
+            ]
+        ]
+    },
+    "TREC_Entity-5": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/MedImmune",
+                0.6176904761904762
+            ]
+        ]
+    },
+    "TREC_Entity-6": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Nobel_Prize",
+                0.3584126984126984
+            ]
+        ]
+    },
+    "TREC_Entity-7": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Boeing_747",
+                0.4116666666666667
+            ]
+        ]
+    },
+    "TREC_Entity-9": {
+        "entities": [
+            [
+                "http://dbpedia.org/resource/Beaux_Arts_Trio",
+                0.7961904761904761
+            ]
+        ]
+    }
+}
