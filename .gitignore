@@ -130,3 +130,6 @@ dmypy.json
 
 # JetBrains
 .idea/
+
+# Data files
+dbpedia-2015-10-kewer/
