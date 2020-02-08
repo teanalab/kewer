@@ -22,7 +22,7 @@ args = parser.parse_args()
 
 ir_run_path = os.path.join('..', 'bm25f', 'runs', 'all.all')
 queries_path = os.path.join('..', 'queries-v2_stopped.txt')
-redirects_path = os.path.join('..', 'dbpedia-2015-10-kgeer', 'transitive_redirects_en.ttl')
+redirects_path = os.path.join('..', 'dbpedia-2015-10-kewer', 'transitive_redirects_en.ttl')
 qrel_path = os.path.join('..', 'qrels', 'qrels.txt')
 collections = ['SemSearch-ES', 'INEX-LD', 'ListSearch', 'QALD2']
 

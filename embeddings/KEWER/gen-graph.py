@@ -10,9 +10,9 @@ import matplotlib.pyplot as plt
 from collections import defaultdict
 
 indexed_path = os.path.join('..', '..', 'indexed')
-redirects_path = os.path.join('..', '..', 'dbpedia-2015-10-kgeer', 'transitive_redirects_en.ttl')
-categories_path = os.path.join('..', '..', 'dbpedia-2015-10-kgeer', 'article_categories_en.ttl')
-graph_dir = os.path.join('..', '..', 'dbpedia-2015-10-kgeer', 'graph')
+redirects_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'transitive_redirects_en.ttl')
+categories_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'article_categories_en.ttl')
+graph_dir = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'graph')
 graph_paths = [os.path.join(graph_dir, path) for path in os.listdir(graph_dir)]
 out_graph_path = os.path.join('data', 'graph.tsv')
 

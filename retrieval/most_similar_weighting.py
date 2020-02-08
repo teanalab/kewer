@@ -97,4 +97,4 @@ with open(args.outfile, 'w') as out_file:
             print('No vocab tokens for query {}: {}! Using zero vector for "positive".'.format(qid, ' '.join(qtokens)))
             positive.append(np.zeros(entityv.vector_size))
         for i, (entity, score) in enumerate(entityv.most_similar(positive=positive, topn=1000)):
-            print(qid, 'Q0', entity, i + 1, score, 'kgeer', sep=' ', file=out_file)
+            print(qid, 'Q0', entity, i + 1, score, 'kewer', sep=' ', file=out_file)

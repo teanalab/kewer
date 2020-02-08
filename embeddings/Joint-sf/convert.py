@@ -8,12 +8,12 @@ from unidecode import unidecode
 import re
 
 indexed_path = os.path.join('..', '..', 'indexed')
-redirects_path = os.path.join('..', '..', 'dbpedia-2015-10-kgeer', 'transitive_redirects_en.ttl')
-long_abstracts_path = os.path.join('..', '..', 'dbpedia-2015-10-kgeer', 'short_abstracts_en.ttl')
+redirects_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'transitive_redirects_en.ttl')
+long_abstracts_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'short_abstracts_en.ttl')
 
-graph_path = os.path.join('..', 'KGEER', 'data', 'graph.tsv')
+graph_path = os.path.join('..', 'KEWER', 'data', 'graph.tsv')
 out_path = os.path.join('data', 'data.txt')
-labels_dir = os.path.join('..', '..', 'dbpedia-2015-10-kgeer', 'labels')
+labels_dir = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'labels')
 labels_paths = [os.path.join(labels_dir, path) for path in os.listdir(labels_dir)]
 
 tokenizer = RegexpTokenizer(r"['\w]+")
