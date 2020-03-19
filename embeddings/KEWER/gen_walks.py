@@ -3,7 +3,6 @@
 import os
 import random
 import argparse
-import time
 from collections import defaultdict
 from datetime import datetime
 import gc
@@ -12,7 +11,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--outfile', help='output file with walks', required=True)
 parser.add_argument('--cat', help='process categories',
         default=False, action='store_true')
-parser.add_argument('--length', help='length of walks', default=4, type=int)
+parser.add_argument('--length', help='length of walks', default=10, type=int)
 parser.add_argument('--walks', help='walks per root', default=100, type=int)
 args = parser.parse_args()
 
@@ -25,7 +24,7 @@ def process_node(subj, out_file):
     for _ in range(args.walks):
         walk = [subj]
         l = 1
-        visited = set([subj])
+        visited = {subj}
         obj = subj
 
         while obj in outents and l < args.length:

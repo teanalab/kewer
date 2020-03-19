@@ -126,19 +126,18 @@ with open(args.outpath, "w") as run_file:
         best_l_sum = 0
         for fold, fold_queries in folds[collection].items():
             best_l = 0.0
-            best_ndcg_10 = float("-inf")
+            best_ndcg_100 = float("-inf")
             for l in np.linspace(0,1,41):
                 run = {}
                 for query_id in fold_queries['training']:
                     qmean = wmean(queries[query_id], qid_entities[qid]['entities'])
-                    ranking = get_ranking(query_id, l, qmean)
-                    run[query_id] = dict(sorted(ranking.items(), key=operator.itemgetter(1), reverse=True))
+                    run[query_id] = get_ranking(query_id, l, qmean)
                 evaluation = evaluator.evaluate(run)
-                ndcg_10 = np.mean([metrics['ndcg_cut_100'] for metrics in evaluation.values()])
-                if ndcg_10 > best_ndcg_10:
+                ndcg_100 = np.mean([metrics['ndcg_cut_100'] for metrics in evaluation.values()])
+                if ndcg_100 > best_ndcg_100:
                     best_l = l
-                    best_ndcg_10 = ndcg_10
-            print(collection, fold, best_l, best_ndcg_10)
+                    best_ndcg_100 = ndcg_100
+            print(collection, fold, best_l, best_ndcg_100)
             best_l_sum += best_l
             for query_id in fold_queries['testing']:
                 qmean = wmean(queries[query_id], qid_entities[qid]['entities'])

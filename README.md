@@ -26,3 +26,21 @@ dbpedia-2015-10-kewer
 
 2 directories, 11 files
 ```
+
+## Train KEWER embeddings
+
+1. Generate `indexed` file with the filtered entities: `make-indexed.sh`.
+2. Install required packages:
+```shell script
+$ conda create --name kewer --file requirements.txt
+$ conda activate kewer
+```
+2. Train embeddings:
+```shell script
+$ cd embeddings/KEWER
+$ ./gen_graph.py
+$ ./gen_walks.py --cat --outfile data/walks-cat.txt
+$ ./replace_uris.py --pred --lit --infile data/walks-cat.txt --outfile data/sents-cat-pred-lit.txt
+# optional - shuffle sentences: $ shuf data/sents-cat-pred-lit.txt -o data/sents-cat-pred-lit.txt
+$ ./train_w2v.py --infile data/sents-cat-pred-lit.txt --outfiles data/kewer
+```

@@ -5,8 +5,6 @@ import fileinput
 from nltk.tokenize import RegexpTokenizer
 from unidecode import unidecode
 import re
-import statistics
-import matplotlib.pyplot as plt
 from collections import defaultdict
 
 indexed_path = os.path.join('..', '..', 'indexed')
@@ -14,7 +12,6 @@ redirects_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'transitive_r
 categories_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'article_categories_en.ttl')
 graph_dir = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'graph')
 graph_paths = [os.path.join(graph_dir, path) for path in os.listdir(graph_dir)]
-out_graph_path = os.path.join('data', 'graph.tsv')
 
 blacklist = set(pred.lower() for pred in [
     '<http://www.w3.org/2000/01/rdf-schema#seeAlso>',
@@ -77,7 +74,7 @@ blacklist = set(pred.lower() for pred in [
     '<http://dbpedia.org/ontology/birthName>',
     '<http://dbpedia.org/ontology/longName>',
     '<http://xmlns.com/foaf/0.1/givenName>',
-    '<http://xmlns.com/foaf/0.1/surname>', # didn't find this one in data
+    '<http://xmlns.com/foaf/0.1/surname>',  # didn't find this one in data
     '<http://dbpedia.org/property/showName>',
     '<http://dbpedia.org/property/shipName>',
     '<http://dbpedia.org/property/unitName>',
@@ -98,23 +95,24 @@ with open(redirects_path) as f:
 
 tokenizer = RegexpTokenizer(r"['\w]+")
 
-def literal_tokens(obj):
-    text = obj[obj.find('"')+1:obj.rfind('"')]
-    text = (text.replace(r'\"', '"').replace(r'\t', '\t').replace(r'\b', '\b').
-        replace(r'\n', '\n').replace(r'\r', '\r').replace(r'\f', '\f')) # unescape characters
 
-    if len(text) == 0 or sum([ord(c) < 128 for c in text])/len(text) < 0.8: # filter out non-english literals
+def literal_tokens(obj):
+    text = obj[obj.find('"') + 1:obj.rfind('"')]
+    text = (text.replace(r'\"', '"').replace(r'\t', '\t').replace(r'\b', '\b').
+            replace(r'\n', '\n').replace(r'\r', '\r').replace(r'\f', '\f'))  # unescape characters
+
+    if len(text) == 0 or sum([ord(c) < 128 for c in text]) / len(text) < 0.8:  # filter out non-english literals
         return []
 
-    text = unidecode(text) # remove accents
-    text = re.sub('([A-Z][a-z]+)', r' \1 ', text).strip() # separate CamelCase
+    text = unidecode(text)  # remove accents
+    text = re.sub('([A-Z][a-z]+)', r' \1 ', text).strip()  # separate CamelCase
     text = text.lower()
 
-    if text in ['yes', 'no', 'on', 'off']: # filter out boolean literals
+    if text in ['yes', 'no', 'on', 'off']:  # filter out boolean literals
         return []
-    if text.startswith('http'): # filter out urls
+    if text.startswith('http'):  # filter out urls
         return []
-    if re.search(r'\.[a-z]{3,4}$', text): # filter out filenames
+    if re.search(r'\.[a-z]{3,4}$', text):  # filter out filenames
         return []
 
     tokens = tokenizer.tokenize(text)
@@ -123,9 +121,11 @@ def literal_tokens(obj):
         token = re.sub(r"'s$", "", token)
         token = token.replace("'", "")
         # filter words and years
-        if len(token) > 1 and len(token) <= 20 and (all(c.isalpha() for c in token) or (re.match(r'^[12][0-9]{3}$', token) and int(token) <= 2050)):
+        if len(token) > 1 and len(token) <= 20 and (
+                all(c.isalpha() for c in token) or (re.match(r'^[12][0-9]{3}$', token) and int(token) <= 2050)):
             norm_tokens.append(token)
     return norm_tokens
+
 
 outnodes = defaultdict(set)
 
@@ -159,7 +159,10 @@ with open(categories_path) as input_file:
         if subj in indexed:
             outnodes[subj].add((pred, obj))
 
-with open(out_graph_path, 'w') as out_file:
+if not os.path.exists('data'):
+    os.makedirs('data')
+
+with open(os.path.join('data', 'graph.tsv'), 'w') as out_file:
     for subj, onodes in outnodes.items():
         for pred, obj in onodes:
             print(subj, pred, obj, sep='\t', file=out_file)

@@ -134,3 +134,4 @@ dmypy.json
 # Data files
 dbpedia-2015-10-kewer/
 indexed
+embeddings/KEWER/data/
