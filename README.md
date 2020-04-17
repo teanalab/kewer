@@ -1,4 +1,4 @@
-The repository contains code and data for ECIR 2020 paper "Joint Word and Entity Embeddings for Entity Retrieval from Knowledge Graph" \[[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-45439-5_10.pdf), [presentation](https://youtu.be/TK4F0GjLKRc?t=26769)\].
+The repository contains code and data for ECIR 2020 paper "Joint Word and Entity Embeddings for Entity Retrieval from Knowledge Graph" \[[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-45439-5_10.pdf), [slides](https://www.slideshare.net/FedorNikolaev/joint-word-and-entity-embeddings-for-entity-retrieval-from-knowledge-graph), [presentation](https://youtu.be/TK4F0GjLKRc?t=26769)\].
 
 KEWER embeddings trained on categories, literals, predicates structural components and unigram probabilities are available here: https://academictorrents.com/details/4778f904ca10f059eaaf27bdd61f7f7fc93abc6e.
 
