@@ -44,3 +44,22 @@ $ ./replace_uris.py --pred --lit --infile data/walks-cat.txt --outfile data/sent
 # optional - shuffle sentences: $ shuf data/sents-cat-pred-lit.txt -o data/sents-cat-pred-lit.txt
 $ ./train_w2v.py --infile data/sents-cat-pred-lit.txt --outfiles data/kewer
 ```
+
+## Cite
+
+```
+@InProceedings{Nikolaev:2020:KEWER,
+  author="Nikolaev, Fedor and Kotov, Alexander",
+  title="Joint Word and Entity Embeddings for Entity Retrieval from a Knowledge Graph",
+  booktitle="Advances in Information Retrieval",
+  year="2020",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="141--155",
+  isbn="978-3-030-45439-5"
+}
+```
+
+## Contact
+
+If you have any questions or suggestions, send an email to fedor@wayne.edu or [create a GitHub issue](https://github.com/teanalab/kewer/issues/new).
