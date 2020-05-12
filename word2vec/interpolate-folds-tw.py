@@ -7,6 +7,7 @@ import argparse
 import re
 import json
 from collections import defaultdict
+from statistics import mean, stdev
 from gensim.models import Word2Vec, KeyedVectors
 from gensim import matutils
 import pytrec_eval
@@ -145,7 +146,7 @@ def get_ranking(query_id, l):
 
 with open(args.outpath, "w") as run_file:
     for collection in collections:
-        best_l_sum = 0
+        best_ls = []
         for fold, fold_queries in folds[collection].items():
             best_l = 0.0
             best_ndcg_100 = float("-inf")
@@ -159,10 +160,10 @@ with open(args.outpath, "w") as run_file:
                     best_l = l
                     best_ndcg_100 = ndcg_100
             print(collection, fold, best_l, best_ndcg_100)
-            best_l_sum += best_l
+            best_ls.append(best_l)
             for query_id in fold_queries['testing']:
                 ranking = get_ranking(query_id, best_l)
                 ranking = sorted(ranking.items(), key=operator.itemgetter(1), reverse=True)
                 for i, (doc_id, score) in enumerate(ranking):
                     print(query_id, 'Q0', doc_id, i + 1, score, 'interp', sep=' ', file=run_file)
-        print(collection, best_l_sum / 5)
+        print(collection, mean(best_ls), stdev(best_ls))
