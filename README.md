@@ -1,6 +1,6 @@
 # KEWER: Knowledge graph Entity and Word Embedding for Retrieval
 
-[![Dancing KEWER](https://i.imgur.com/H57MiBZ.png)](https://youtu.be/AGvGldtbJSU)
+[![Dancing KEWER](https://i.imgur.com/HnIBZXn.png)](https://youtu.be/AGvGldtbJSU)
 
 The repository contains code and data for ECIR 2020 paper "Joint Word and Entity Embeddings for Entity Retrieval from Knowledge Graph" \[[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-45439-5_10.pdf), [slides](https://www.slideshare.net/FedorNikolaev/joint-word-and-entity-embeddings-for-entity-retrieval-from-knowledge-graph), [presentation](https://youtu.be/TK4F0GjLKRc?t=26769)\].
 
