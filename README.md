@@ -6,7 +6,24 @@ The repository contains code and data for ECIR 2020 paper "Joint Word and Entity
 
 KEWER embeddings trained on categories, literals, predicates structural components and unigram probabilities are available here: https://academictorrents.com/details/4778f904ca10f059eaaf27bdd61f7f7fc93abc6e.
 
-## Download Dataset
+## Entity Retrieval example
+
+KEWER allows to significantly improve entity retrieval for complex queries. Below are the top 10 results for the query "wonders of the ancient world" obtained using BM25F and KEWER. Relevant results are *italicized*, and highly relevant results are **boldfaced**.
+
+| BM25F                                           | KEWER                                        |
+|-------------------------------------------------|----------------------------------------------|
+| **Seven Wonders of the Ancient World**          | **Colossus of Rhodes**                       |
+| *7 Wonders of the Ancient World (video game)*   | **Statue of Zeus at Olympia**                |
+| *Wonders of the World*                          | **Temple of Artemis**                        |
+| *Seven Ancient Wonders*                         | List of archaeoastronomical sites by country |
+| The Seven Fabulous Wonders                      | **Hanging Gardens of Babylon**               |
+| The Seven Wonders of the World (album)          | Antikythera mechanism                        |
+| Times of India's list of seven wonders of India | Timeline of ancient history                  |
+| *Lighthouse of Alexandria*                      | *Wonders of the World*                       |
+| 7 Wonders (board game)                          | *Lighthouse of Alexandria*                   |
+| Colossus of Rhodes                              | **Great Pyramid of Giza**                    |
+
+## Download dataset
 
 To download the dataset, which is a subset of English [DBpedia 2015-10](https://wiki.dbpedia.org/dbpedia-dataset-version-2015-10), simply run `make-dataset.sh` script.
 Verify that it produced the following files and directories in `dbpedia-2015-10-kewer` directory:
