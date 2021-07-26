@@ -25,12 +25,12 @@ KEWER allows to significantly improve entity retrieval for complex queries. Belo
 
 ## Download dataset
 
-To download the dataset, which is a subset of English [DBpedia 2015-10](https://wiki.dbpedia.org/dbpedia-dataset-version-2015-10), simply run `make-dataset.sh` script.
-Verify that it produced the following files and directories in `dbpedia-2015-10-kewer` directory:
+To download the dataset, which is a subset of English [DBpedia 2016-10](http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-10.html), simply run `make-dataset.sh` script.
+Verify that it produced the following files and directories in `dbpedia-2016-10-kewer` directory:
 
 ```bash
-$ tree --dirsfirst dbpedia-2015-10-kewer
-dbpedia-2015-10-kewer
+$ tree --dirsfirst dbpedia-2016-10-kewer
+dbpedia-2016-10-kewer
 ├── graph
 │   ├── infobox_properties_en.ttl
 │   ├── mappingbased_literals_en.ttl
@@ -38,7 +38,7 @@ dbpedia-2015-10-kewer
 ├── labels
 │   ├── anchor_text_en.ttl
 │   ├── category_labels_en.ttl
-│   ├── dbpedia_2015-10.nt
+│   ├── dbpedia_2016-10.nt
 │   ├── infobox_property_definitions_en.ttl
 │   └── labels_en.ttl
 ├── article_categories_en.ttl

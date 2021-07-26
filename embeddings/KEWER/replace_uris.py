@@ -17,10 +17,10 @@ parser.add_argument('--pred', help='process predicates', default=False, action='
 parser.add_argument('--lit', help='keep literals', default=False, action='store_true')
 args = parser.parse_args()
 
-redirects_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'transitive_redirects_en.ttl')
-labels_dir = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'labels')
+redirects_path = os.path.join('..', '..', 'dbpedia-2016-10-kewer', 'transitive_redirects_en.ttl')
+labels_dir = os.path.join('..', '..', 'dbpedia-2016-10-kewer', 'labels')
 labels_paths = [os.path.join(labels_dir, path) for path in os.listdir(labels_dir)]
-graph_dir = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'graph')
+graph_dir = os.path.join('..', '..', 'dbpedia-2016-10-kewer', 'graph')
 graph_paths = [os.path.join(graph_dir, path) for path in os.listdir(graph_dir)]
 
 remove_uris = {'<http://purl.org/dc/elements/1.1/description>', '<http://dbpedia.org/property/description>',
