@@ -1,0 +1,5 @@
+name: kewer-2021-06
+dependencies:
+  - gensim=4
+  - nltk=3
+  - unidecode=1
