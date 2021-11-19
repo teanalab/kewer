@@ -24,7 +24,7 @@ if __name__ == '__main__':
     logging.basicConfig(format='%(asctime)s: %(levelname)s: %(message)s')
     logging.root.setLevel(level=logging.INFO)
 
-    model = Word2Vec(LineSentence(args.infile), size=args.size, window=args.window, min_count=5, sg=1,
+    model = Word2Vec(LineSentence(args.infile), vector_size=args.size, window=args.window, min_count=1ke    , sg=1,
                      workers=args.workers)
 
     # trim unneeded model memory = use(much) less RAM

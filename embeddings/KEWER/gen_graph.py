@@ -8,9 +8,9 @@ import re
 from collections import defaultdict
 
 indexed_path = os.path.join('..', '..', 'indexed')
-redirects_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'transitive_redirects_en.ttl')
-categories_path = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'article_categories_en.ttl')
-graph_dir = os.path.join('..', '..', 'dbpedia-2015-10-kewer', 'graph')
+redirects_path = os.path.join('..', '..', 'dbpedia-2021-06-kewer', 'redirects_lang=en_transitive.ttl')
+categories_path = os.path.join('..', '..', 'dbpedia-2021-06-kewer', 'categories_lang=en_articles.ttl')
+graph_dir = os.path.join('..', '..', 'dbpedia-2021-06-kewer', 'graph')
 graph_paths = [os.path.join(graph_dir, path) for path in os.listdir(graph_dir)]
 
 blacklist = set(pred.lower() for pred in [

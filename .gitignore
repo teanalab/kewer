@@ -132,6 +132,6 @@ dmypy.json
 .idea/
 
 # Data files
-dbpedia-2015-10-kewer/
+dbpedia-2021-06-kewer/
 indexed
 embeddings/KEWER/data/

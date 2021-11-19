@@ -49,6 +49,7 @@ def process_node(subj, out_file):
         print(*walk, sep='\t', file=out_file)
 
 def main():
+    random.seed(42)
     outents_set = defaultdict(set)
     outlits_set = defaultdict(set)
     i = 0

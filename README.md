@@ -25,25 +25,25 @@ KEWER allows to significantly improve entity retrieval for complex queries. Belo
 
 ## Download dataset
 
-To download the dataset, which is a subset of English [DBpedia 2015-10](https://wiki.dbpedia.org/dbpedia-dataset-version-2015-10), simply run `make-dataset.sh` script.
-Verify that it produced the following files and directories in `dbpedia-2015-10-kewer` directory:
+To download the dataset, which is a subset of [DBpedia Snapshot 2021-06](https://www.dbpedia.org/blog/snapshot-2021-06-release/), simply run `make-dataset.sh` script.
+Verify that it produced the following files and directories in `dbpedia-2021-06-kewer` directory:
 
 ```bash
-$ tree --dirsfirst dbpedia-2015-10-kewer
-dbpedia-2015-10-kewer
+$ tree --dirsfirst dbpedia-2021-06-kewer
+dbpedia-2021-06-kewer
 ├── graph
-│   ├── infobox_properties_en.ttl
-│   ├── mappingbased_literals_en.ttl
-│   └── mappingbased_objects_en.ttl
+│   ├── infobox-properties_lang=en.ttl
+│   ├── mappingbased-literals_lang=en.ttl
+│   └── mappingbased-objects_lang=en.ttl
 ├── labels
-│   ├── anchor_text_en.ttl
-│   ├── category_labels_en.ttl
-│   ├── dbpedia_2015-10.nt
-│   ├── infobox_property_definitions_en.ttl
-│   └── labels_en.ttl
-├── article_categories_en.ttl
-├── short_abstracts_en.ttl
-└── transitive_redirects_en.ttl
+│   ├── anchor-text_lang=en.ttl
+│   ├── categories_lang=en_labels.ttl
+│   ├── infobox-property-definitions_lang=en.ttl
+│   ├── labels_lang=en.ttl
+│   └── ontology--DEV_type=parsed.nt
+├── categories_lang=en_articles.ttl
+├── redirects_lang=en_transitive.ttl
+└── short-abstracts_lang=en.ttl
 
 2 directories, 11 files
 ```
@@ -53,8 +53,8 @@ dbpedia-2015-10-kewer
 1. Generate `indexed` file with the filtered entities: `make-indexed.sh`.
 2. Install required packages:
 ```shell script
-$ conda create --name kewer --file requirements.txt
-$ conda activate kewer
+$ conda env create -f environment.yml
+$ conda activate kewer-2021-06
 ```
 2. Train embeddings:
 ```shell script
@@ -62,8 +62,8 @@ $ cd embeddings/KEWER
 $ ./gen_graph.py
 $ ./gen_walks.py --cat --outfile data/walks-cat.txt
 $ ./replace_uris.py --pred --lit --infile data/walks-cat.txt --outfile data/sents-cat-pred-lit.txt
-# optional - shuffle sentences: $ shuf data/sents-cat-pred-lit.txt -o data/sents-cat-pred-lit.txt
-$ ./train_w2v.py --infile data/sents-cat-pred-lit.txt --outfiles data/kewer
+$ shuf data/sents-cat-pred-lit.txt -o data/sents-cat-pred-lit.txt.shuf
+$ ./train_w2v.py --infile data/sents-cat-pred-lit.txt.shuf --outfiles data/kewer
 ```
 
 ## Cite
