@@ -66,6 +66,22 @@ $ shuf data/sents-cat-pred-lit.txt -o data/sents-cat-pred-lit.txt.shuf
 $ ./train_w2v.py --infile data/sents-cat-pred-lit.txt.shuf --outfiles data/kewer
 ```
 
+## Repo structure
+
+`bm25f/` scripts to optimize and run retrieval of BM25F baseline using Galago fork https://sourceforge.net/projects/galago-fork/. You need to provide index in `index/` directory to run the scripts. For converting .ttl files into trecweb format that can be indexed with Galago, this project can be used https://github.com/teanalab/dbpedia2fields \
+`embeddings/` scripts to train KEWER and Jointly baseline.\
+`entity-extraction/` scripts to perform entity linking in queries using DBpedia Spotlight, Nordlys LTR, and SMAPH.\
+`interpolation-el/` interpolation BM25F+KEWER_el-SM.\
+`interpolation/` interpolation BM25F+KEWER.\
+`qrels/` relevance judgments from DBpedia-Entity v2.\
+`queries/` query folds in json and tsv formats.\
+`retrieval/` ranking of entities using embeddings only, without interpolation, as in Table 2 in paper.\
+`word2vec/` scripts for BM25F+word2vec baseline.\
+`eval.sh` evaluate result runs using provided qrels_file.\
+`make-dataset.sh` download DBpedia 2015-10 dataset.\
+`make-indexed.sh` generate 'indexed' file with the filtered entities.\
+`queries-v2_stopped.txt` DBpedia-Entity v2 queries.
+
 ## Cite
 
 ```
